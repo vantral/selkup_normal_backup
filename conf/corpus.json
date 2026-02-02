@@ -1,11 +1,11 @@
 {
-    "corpus_name": "ket",
-    "citation": "The corpus of the Ket language.",
+    "corpus_name": "selkup",
+    "citation": "The corpus of the Selkup language.",
     "input_format": "json",
     "debug": false,
     "media": false,
     "video": true,
-    "language_codes": {"ket": "ket", "ru": "ru", "en": "en"},
+    "language_codes": {"selkup": "selkup", "ru": "ru", "en": "en"},
     "json_indent": 2,
     "media_length": 60,
     "max_context_expand": 10,
@@ -28,13 +28,13 @@
       "speaker_type": ["native", "linguist"]
     },
     "keyboards": {
-      "ket":"ket",
+      "ket":"selkup",
       "russian": "russian"
     },
     "generate_dictionary": true,
     "fulltext_view_enabled": true,
     "use_nonpersistent_fulltext_id": true,
-    "languages": ["ket", "ru", "en"],
+    "languages": ["selkup", "ru", "en"],
     "transliterations": ["original", "cyrillic"],
     "input_methods": ["normal"],
     "interface_languages": [

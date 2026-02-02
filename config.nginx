@@ -1,0 +1,182 @@
+server {
+    #listen                 80 default_server;
+    #listen                 [::]:80;
+    #listen                  443 ssl http2 default_server;
+    #listen                  [::]:443 ssl http2;
+
+listen 80 default_server;
+listen [::]:80 default_server;
+
+#    server_name             corpora.iling-ran.ru;
+#    root                    /var/www/html/corpora.iling-ran.ru;
+
+server_name _;
+root /var/www/html/corpora.iling-ran.ru;
+
+    location ~* ^/.well-known/ {
+        allow all;
+    }
+
+#    ssl_stapling on;
+#    ssl_stapling_verify on;
+#    ssl_certificate /etc/letsencrypt/live/corpora.iling-ran.ru/fullchain.pem;
+#    ssl_certificate_key /etc/letsencrypt/live/corpora.iling-ran.ru/privkey.pem;
+#    ssl_trusted_certificate /etc/letsencrypt/live/corpora.iling-ran.ru/fullchain.pem;
+
+    # security
+    include                 nginxconfig.io/security.conf;
+
+    # logging
+    access_log              /var/log/nginx/corpora.iling-ran.ru.access.log;
+    error_log               /var/log/nginx/corpora.iling-ran.ru.error.log warn;
+
+
+        ########################################################
+    # REFERER-BASED REWRITES, BUT DO NOT TOUCH /static/... #
+    ########################################################
+    # Negative lookahead (?!static/) means:
+    #   "rewrite everything EXCEPT paths starting with /static/"
+
+    if ($http_referer ~ .*mari.*) {
+        rewrite ^/(?!static/)(.*)$ /oleg/$1 last;
+    }
+
+    if ($http_referer ~ .*ket_corpus.*) {
+        rewrite ^/(?!static/)(.*)$ /anton/$1 last;
+    }
+
+    if ($http_referer ~ .*selkup_legal.*) {
+        rewrite ^/(?!static/)(.*)$ /sel_legal_corpus/$1 last;
+    }
+
+    if ($http_referer ~ .*aramaic_corpus.*) {
+        rewrite ^/(?!static/)(.*)$ /aram_corpus/$1 last;
+    }
+
+    if ($http_referer ~ .*naukan_corpus.*) {
+        rewrite ^/(?!static/)(.*)$ /nauk_corpus/$1 last;
+    }
+
+    if ($http_referer ~ .*even_corpus.*) {
+        rewrite ^/(?!static/)(.*)$ /eve_corpus/$1 last;
+    }
+
+    if ($http_referer ~ .*selkup_native.*) {
+        rewrite ^/(?!static/)(.*)$ /sel_native_corpus/$1 last;
+    }
+
+    ########################################################
+    # PROXIES – SAME AS YOUR ORIGINAL CONFIG               #
+    ########################################################
+
+    # tsakorpus is available internally on port 9000
+    location ~ ^/mari.* {
+        rewrite ^/mari(.*) /search$1 break;
+        proxy_pass http://127.0.0.1:9000;
+    }
+
+    location ~ /ket_corpus(.*) {
+        rewrite /ket_corpus(.*) /search$1 break;
+        proxy_pass http://127.0.0.1:9001;
+    }
+
+    location ~ /selkup_legal(.*) {
+        rewrite /selkup_legal(.*) /search$1 break;
+        proxy_pass http://127.0.0.1:9002;
+    }
+
+    location ~ /aramaic_corpus(.*) {
+        rewrite /aramaic_corpus(.*) /search$1 break;
+        proxy_pass http://127.0.0.1:9003;
+    }
+
+    location ~ /even_corpus(.*) {
+        rewrite /even_corpus(.*) /search$1 break;
+        proxy_pass http://127.0.0.1:9004;
+    }
+
+    location ~ /naukan_corpus(.*) {
+        rewrite /naukan_corpus(.*) /search$1 break;
+        proxy_pass http://127.0.0.1:9005;
+    }
+
+    location ~ /selkup_native(.*) {
+        rewrite /selkup_native(.*) /search$1 break;
+        proxy_pass http://127.0.0.1:9006;
+    }
+
+    # static files for naukan (and others) served by 9005
+    location ~ ^/static.* {
+        proxy_pass http://127.0.0.1:9002;
+    }
+
+    location ~ ^/oleg/.* {
+        rewrite ^/oleg/(.*) $1 break;
+        proxy_pass http://127.0.0.1:9000;
+    }
+
+    location ~ ^/anton/.* {
+        rewrite ^/anton/(.*) $1 break;
+        proxy_pass http://127.0.0.1:9001;
+    }
+
+    location ~ ^/sel_legal_corpus/.* {
+        rewrite ^/sel_legal_corpus/(.*) $1 break;
+        proxy_pass http://127.0.0.1:9002;
+    }
+
+    location ~ ^/aram_corpus/.* {
+        rewrite ^/aram_corpus/(.*) $1 break;
+        proxy_pass http://127.0.0.1:9003;
+    }
+
+    location ~ ^/eve_corpus/.* {
+        rewrite ^/eve_corpus/(.*) $1 break;
+        proxy_pass http://127.0.0.1:9004;
+    }
+
+    location ~ ^/nauk_corpus/.* {
+        rewrite ^/nauk_corpus/(.*) $1 break;
+        proxy_pass http://127.0.0.1:9005;
+    }
+
+    location ~ ^/sel_native_corpus/.* {
+        rewrite ^/sel_native_corpus/(.*) $1 break;
+        proxy_pass http://127.0.0.1:9006;
+    }
+
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+
+    # additional config
+    include nginxconfig.io/general.conf;
+}
+
+# subdomains redirect
+#server {
+#    listen                  443 ssl http2;
+#    listen                  [::]:443 ssl http2;
+#    server_name             *.corpora.iling-ran.ru;
+#
+#    ssl_certificate         /etc/letsencrypt/live/corpora.iling-ran.ru/fullchain.pem;
+#    ssl_certificate_key     /etc/letsencrypt/live/corpora.iling-ran.ru/privkey.pem;
+#    ssl_trusted_certificate /etc/letsencrypt/live/corpora.iling-ran.ru/chain.pem;
+#    return                  301 https://corpora.iling-ran.ru$request_uri;
+#}
+
+# HTTP redirect
+#server {
+#    listen      80;
+#    listen      [::]:80;
+#    server_name .corpora.iling-ran.ru;
+#    include     nginxconfig.io/letsencrypt.conf;
+#
+#    location / {
+#        return 301 https://corpora.iling-ran.ru$request_uri;
+#    }
+#
+#    location ~* ^/.well-known/ {
+#        allow all;
+#    }
+#}

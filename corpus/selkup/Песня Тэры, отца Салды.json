@@ -14,11 +14,11 @@
             {
               "parts": "ʧe:lɨ-t(ɨ)",
               "gloss": "солнце-POSS.3SG",
-              "gloss_index": "",
+              "gloss_index": "солнце{ʧe:lɨ}-POSS.3SG{t(ɨ)}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "солнце-POSS.3SG",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "солнце{ʧe:lɨ}-POSS.3SG{t(ɨ)}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -35,11 +35,11 @@
             {
               "parts": "aj",
               "gloss": "и",
-              "gloss_index": "",
+              "gloss_index": "и{aj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "и",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "и{aj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -56,11 +56,11 @@
             {
               "parts": "iræ-tɨ",
               "gloss": "луна-POSS.3SG",
-              "gloss_index": "",
+              "gloss_index": "луна{iræ}-POSS.3SG{tɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "луна-POSS.3SG",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "луна{iræ}-POSS.3SG{tɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -77,11 +77,11 @@
             {
               "parts": "ʧe:l-εnt-ɨ",
               "gloss": "светить-IPFV-3SG.SBJ",
-              "gloss_index": "",
+              "gloss_index": "светить{ʧe:l}-IPFV{εnt}-3SG.SBJ{ɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "светить-IPFV-3SG.SBJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "светить{ʧe:l}-IPFV{εnt}-3SG.SBJ{ɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -98,11 +98,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -215,11 +215,11 @@
             {
               "parts": "ɪnnæ-nɨ",
               "gloss": "вверх-ELA",
-              "gloss_index": "",
+              "gloss_index": "вверх{ɪnnæ}-ELA{nɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вверх-ELA",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вверх{ɪnnæ}-ELA{nɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -236,11 +236,11 @@
             {
               "parts": "qə̄tɨ-mmɨ-nt-a",
               "gloss": "сиять-DUR-EVID-3SG.SBJ",
-              "gloss_index": "",
+              "gloss_index": "сиять{qə̄tɨ}-DUR{mmɨ}-EVID{nt}-3SG.SBJ{a}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "сиять-DUR-EVID-3SG.SBJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "сиять{qə̄tɨ}-DUR{mmɨ}-EVID{nt}-3SG.SBJ{a}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -257,11 +257,11 @@
             {
               "parts": "na",
               "gloss": "вот",
-              "gloss_index": "",
+              "gloss_index": "вот{na}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот{na}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -356,11 +356,11 @@
             {
               "parts": "qɪʃqa-n",
               "gloss": "звезда-PL",
-              "gloss_index": "",
+              "gloss_index": "звезда{qɪʃqa}-PL{n}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "звезда-PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "звезда{qɪʃqa}-PL{n}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -377,11 +377,11 @@
             {
               "parts": "nan",
               "gloss": "долго",
-              "gloss_index": "",
+              "gloss_index": "долго{nan}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "долго",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "долго{nan}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -398,11 +398,11 @@
             {
               "parts": "εj",
               "gloss": "тоже",
-              "gloss_index": "",
+              "gloss_index": "тоже{εj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "тоже",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "тоже{εj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -419,11 +419,11 @@
             {
               "parts": "qə:t-ælɨ-mmɨ-nt-ɔ:tɨn",
               "gloss": "сиять-PLSBJ-DUR-EVID-3PL",
-              "gloss_index": "",
+              "gloss_index": "сиять{qə:t}-PLSBJ{ælɨ}-DUR{mmɨ}-EVID{nt}-3PL{ɔ:tɨn}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "сиять-PLSBJ-DUR-EVID-3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "сиять{qə:t}-PLSBJ{ælɨ}-DUR{mmɨ}-EVID{nt}-3PL{ɔ:tɨn}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -509,11 +509,11 @@
             {
               "parts": "ɪnnæ-ʎ",
               "gloss": "вверх-ADJ",
-              "gloss_index": "",
+              "gloss_index": "вверх{ɪnnæ}-ADJ{ʎ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вверх-ADJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вверх{ɪnnæ}-ADJ{ʎ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -530,11 +530,11 @@
             {
               "parts": "po:-t",
               "gloss": "дерево-GEN",
-              "gloss_index": "",
+              "gloss_index": "дерево{po:}-GEN{t}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "дерево-GEN",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "дерево{po:}-GEN{t}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -551,11 +551,11 @@
             {
               "parts": "kontɨ-ʎ",
               "gloss": "корень-ADJ",
-              "gloss_index": "",
+              "gloss_index": "корень{kontɨ}-ADJ{ʎ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "корень-ADJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "корень{kontɨ}-ADJ{ʎ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -572,11 +572,11 @@
             {
               "parts": "mōrɨ-ʎm(ɨ)",
               "gloss": "конец-COLL",
-              "gloss_index": "",
+              "gloss_index": "конец{mōrɨ}-COLL{ʎm(ɨ)}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "конец-COLL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "конец{mōrɨ}-COLL{ʎm(ɨ)}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -593,11 +593,11 @@
             {
               "parts": "ɪllæ",
               "gloss": "вниз",
-              "gloss_index": "",
+              "gloss_index": "вниз{ɪllæ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вниз",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вниз{ɪllæ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -692,11 +692,11 @@
             {
               "parts": "ʧe:l-εi̯εnt5-ɔ:tɨn",
               "gloss": "светить-IPFV-3PL",
-              "gloss_index": "",
+              "gloss_index": "светить{ʧe:l}-IPFV{εi̯εnt5}-3PL{ɔ:tɨn}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "светить-IPFV-3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "светить{ʧe:l}-IPFV{εi̯εnt5}-3PL{ɔ:tɨn}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -713,11 +713,11 @@
             {
               "parts": "mɨta",
               "gloss": "EVID",
-              "gloss_index": "",
+              "gloss_index": "EVID{mɨta}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "EVID",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "EVID{mɨta}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -734,11 +734,11 @@
             {
               "parts": "nɪ-ŋ",
               "gloss": "такой-ADVZ",
-              "gloss_index": "",
+              "gloss_index": "такой{nɪ}-ADVZ{ŋ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "такой-ADVZ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "такой{nɪ}-ADVZ{ŋ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -806,11 +806,11 @@
             {
               "parts": "ʧe:l-ӓlɨ-mp-ɔ:tɨn",
               "gloss": "светить-PLSBJ-DUR-3PL",
-              "gloss_index": "",
+              "gloss_index": "светить{ʧe:l}-PLSBJ{ӓlɨ}-DUR{mp}-3PL{ɔ:tɨn}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "светить-PLSBJ-DUR-3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "светить{ʧe:l}-PLSBJ{ӓlɨ}-DUR{mp}-3PL{ɔ:tɨn}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -827,11 +827,11 @@
             {
               "parts": "mɨta",
               "gloss": "EVID",
-              "gloss_index": "",
+              "gloss_index": "EVID{mɨta}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "EVID",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "EVID{mɨta}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -848,11 +848,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -929,11 +929,11 @@
             {
               "parts": "na",
               "gloss": "вот",
-              "gloss_index": "",
+              "gloss_index": "вот{na}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот{na}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -950,11 +950,11 @@
             {
               "parts": "qə:tɨ-mmɨ-nt-ɔ:tɨn",
               "gloss": "сиять-DUR-EVID-3PL",
-              "gloss_index": "",
+              "gloss_index": "сиять{qə:tɨ}-DUR{mmɨ}-EVID{nt}-3PL{ɔ:tɨn}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "сиять-DUR-EVID-3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "сиять{qə:tɨ}-DUR{mmɨ}-EVID{nt}-3PL{ɔ:tɨn}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -971,11 +971,11 @@
             {
               "parts": "nεj-a1",
               "gloss": "вот.как-MEL",
-              "gloss_index": "",
+              "gloss_index": "вот.как{nεj}-MEL{a1}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как-MEL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{nεj}-MEL{a1}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1061,11 +1061,11 @@
             {
               "parts": "ɪnnæ-ʎ",
               "gloss": "вверх-ADJ",
-              "gloss_index": "",
+              "gloss_index": "вверх{ɪnnæ}-ADJ{ʎ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вверх-ADJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вверх{ɪnnæ}-ADJ{ʎ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1082,11 +1082,11 @@
             {
               "parts": "po:-n",
               "gloss": "дерево-GEN",
-              "gloss_index": "",
+              "gloss_index": "дерево{po:}-GEN{n}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "дерево-GEN",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "дерево{po:}-GEN{n}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1103,11 +1103,11 @@
             {
               "parts": "kontɨ-ʎ",
               "gloss": "корень-ADJ",
-              "gloss_index": "",
+              "gloss_index": "корень{kontɨ}-ADJ{ʎ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "корень-ADJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "корень{kontɨ}-ADJ{ʎ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1124,11 +1124,11 @@
             {
               "parts": "mo:rɨ-n",
               "gloss": "конец-PL",
-              "gloss_index": "",
+              "gloss_index": "конец{mo:rɨ}-PL{n}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "конец-PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "конец{mo:rɨ}-PL{n}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1145,11 +1145,11 @@
             {
               "parts": "ɪnnæ-n",
               "gloss": "вверх-LOC",
-              "gloss_index": "",
+              "gloss_index": "вверх{ɪnnæ}-LOC{n}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вверх-LOC",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вверх{ɪnnæ}-LOC{n}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1166,11 +1166,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1274,11 +1274,11 @@
             {
               "parts": "nɨmtɨ",
               "gloss": "там",
-              "gloss_index": "",
+              "gloss_index": "там{nɨmtɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "там",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "там{nɨmtɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1295,11 +1295,11 @@
             {
               "parts": "najεnta",
               "gloss": "вот.так",
-              "gloss_index": "",
+              "gloss_index": "вот.так{najεnta}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.так",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.так{najεnta}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1316,11 +1316,11 @@
             {
               "parts": "nɔ:qɨr",
               "gloss": "три",
-              "gloss_index": "",
+              "gloss_index": "три{nɔ:qɨr}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "три",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "три{nɔ:qɨr}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1337,11 +1337,11 @@
             {
               "parts": "ʧe:lɨ-tɨ",
               "gloss": "солнце-POSS.3SG",
-              "gloss_index": "",
+              "gloss_index": "солнце{ʧe:lɨ}-POSS.3SG{tɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "солнце-POSS.3SG",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "солнце{ʧe:lɨ}-POSS.3SG{tɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1358,11 +1358,11 @@
             {
               "parts": "nɔ:qɨr",
               "gloss": "три",
-              "gloss_index": "",
+              "gloss_index": "три{nɔ:qɨr}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "три",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "три{nɔ:qɨr}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1379,11 +1379,11 @@
             {
               "parts": "iræ-tɨ",
               "gloss": "луна-POSS.3SG",
-              "gloss_index": "",
+              "gloss_index": "луна{iræ}-POSS.3SG{tɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "луна-POSS.3SG",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "луна{iræ}-POSS.3SG{tɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1478,11 +1478,11 @@
             {
               "parts": "kənt-ε:-læ",
               "gloss": "подкрасться-PFV.INT-CVB",
-              "gloss_index": "",
+              "gloss_index": "подкрасться{kənt}-PFV.INT{ε:}-CVB{læ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "подкрасться-PFV.INT-CVB",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "подкрасться{kənt}-PFV.INT{ε:}-CVB{læ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1499,11 +1499,11 @@
             {
               "parts": "təttɨ-n",
               "gloss": "земля-GEN",
-              "gloss_index": "",
+              "gloss_index": "земля{təttɨ}-GEN{n}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "земля-GEN",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "земля{təttɨ}-GEN{n}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1520,11 +1520,11 @@
             {
               "parts": "wәtto:-qɨn",
               "gloss": "дорога-LOC",
-              "gloss_index": "",
+              "gloss_index": "дорога{wәtto:}-LOC{qɨn}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "дорога-LOC",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "дорога{wәtto:}-LOC{qɨn}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1541,11 +1541,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1640,11 +1640,11 @@
             {
               "parts": "mannɨ-mp-aŋ",
               "gloss": "посмотреть-DUR-1SG.SBJ",
-              "gloss_index": "",
+              "gloss_index": "посмотреть{mannɨ}-DUR{mp}-1SG.SBJ{aŋ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "посмотреть-DUR-1SG.SBJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "посмотреть{mannɨ}-DUR{mp}-1SG.SBJ{aŋ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1661,11 +1661,11 @@
             {
               "parts": "ɛj",
               "gloss": "опять",
-              "gloss_index": "",
+              "gloss_index": "опять{ɛj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "опять",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "опять{ɛj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1682,11 +1682,11 @@
             {
               "parts": "mannɨ-mp-aŋ",
               "gloss": "посмотреть-DUR-1SG.SBJ",
-              "gloss_index": "",
+              "gloss_index": "посмотреть{mannɨ}-DUR{mp}-1SG.SBJ{aŋ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "посмотреть-DUR-1SG.SBJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "посмотреть{mannɨ}-DUR{mp}-1SG.SBJ{aŋ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1703,11 +1703,11 @@
             {
               "parts": "ɛj",
               "gloss": "опять",
-              "gloss_index": "",
+              "gloss_index": "опять{ɛj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "опять",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "опять{ɛj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1724,11 +1724,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1832,11 +1832,11 @@
             {
               "parts": "seʎʧɨ",
               "gloss": "семь",
-              "gloss_index": "",
+              "gloss_index": "семь{seʎʧɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "семь",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "семь{seʎʧɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1853,11 +1853,11 @@
             {
               "parts": "lɪmpɨ",
               "gloss": "орел",
-              "gloss_index": "",
+              "gloss_index": "орел{lɪmpɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "орел",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "орел{lɪmpɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1874,11 +1874,11 @@
             {
               "parts": "ilɨ-nt-a",
               "gloss": "жить-EVID-3SG.SBJ",
-              "gloss_index": "",
+              "gloss_index": "жить{ilɨ}-EVID{nt}-3SG.SBJ{a}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "жить-EVID-3SG.SBJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "жить{ilɨ}-EVID{nt}-3SG.SBJ{a}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1895,11 +1895,11 @@
             {
               "parts": "na",
               "gloss": "вот",
-              "gloss_index": "",
+              "gloss_index": "вот{na}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот{na}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -1994,11 +1994,11 @@
             {
               "parts": "ku:tɨ-n-tɨt",
               "gloss": "крыло-GEN-POSS.3PL",
-              "gloss_index": "",
+              "gloss_index": "крыло{ku:tɨ}-GEN{n}-POSS.3PL{tɨt}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "крыло-GEN-POSS.3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "крыло{ku:tɨ}-GEN{n}-POSS.3PL{tɨt}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2015,11 +2015,11 @@
             {
               "parts": "pɔ:rɨ-n",
               "gloss": "верх-PL",
-              "gloss_index": "",
+              "gloss_index": "верх{pɔ:rɨ}-PL{n}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "верх-PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "верх{pɔ:rɨ}-PL{n}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2036,11 +2036,11 @@
             {
               "parts": "ken",
               "gloss": "ведь",
-              "gloss_index": "",
+              "gloss_index": "ведь{ken}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "ведь",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "ведь{ken}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2057,11 +2057,11 @@
             {
               "parts": "mɨta",
               "gloss": "EVID",
-              "gloss_index": "",
+              "gloss_index": "EVID{mɨta}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "EVID",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "EVID{mɨta}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2078,11 +2078,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2186,11 +2186,11 @@
             {
               "parts": "mɨta",
               "gloss": "EVID",
-              "gloss_index": "",
+              "gloss_index": "EVID{mɨta}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "EVID",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "EVID{mɨta}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2207,11 +2207,11 @@
             {
               "parts": "i:l-æptɨ-læ",
               "gloss": "подняться-ATTEN-CVB",
-              "gloss_index": "",
+              "gloss_index": "подняться{i:l}-ATTEN{æptɨ}-CVB{læ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "подняться-ATTEN-CVB",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "подняться{i:l}-ATTEN{æptɨ}-CVB{læ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2270,11 +2270,11 @@
             {
               "parts": "pyr-ma-t-ɔ:l-k-ɔ:tɨn",
               "gloss": "спариваться-NMLZ-VBLZ-PLOBJ-HAB-3PL",
-              "gloss_index": "",
+              "gloss_index": "спариваться{pyr}-NMLZ{ma}-VBLZ{t}-PLOBJ{ɔ:l}-HAB{k}-3PL{ɔ:tɨn}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "спариваться-NMLZ-VBLZ-PLOBJ-HAB-3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "спариваться{pyr}-NMLZ{ma}-VBLZ{t}-PLOBJ{ɔ:l}-HAB{k}-3PL{ɔ:tɨn}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2291,11 +2291,11 @@
             {
               "parts": "me:l",
               "gloss": "всегда",
-              "gloss_index": "",
+              "gloss_index": "всегда{me:l}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "всегда",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "всегда{me:l}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2312,11 +2312,11 @@
             {
               "parts": "jo",
               "gloss": "MEL",
-              "gloss_index": "",
+              "gloss_index": "MEL{jo}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "MEL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "MEL{jo}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2333,11 +2333,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2432,11 +2432,11 @@
             {
               "parts": "na",
               "gloss": "вот",
-              "gloss_index": "",
+              "gloss_index": "вот{na}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот{na}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2453,11 +2453,11 @@
             {
               "parts": "qaj",
               "gloss": "что",
-              "gloss_index": "",
+              "gloss_index": "что{qaj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "что",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "что{qaj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2474,11 +2474,11 @@
             {
               "parts": "mompa",
               "gloss": "REPORT",
-              "gloss_index": "",
+              "gloss_index": "REPORT{mompa}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "REPORT",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "REPORT{mompa}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2555,11 +2555,11 @@
             {
               "parts": "ʧe:lɨ-tɨ",
               "gloss": "солнце-POSS.3SG",
-              "gloss_index": "",
+              "gloss_index": "солнце{ʧe:lɨ}-POSS.3SG{tɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "солнце-POSS.3SG",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "солнце{ʧe:lɨ}-POSS.3SG{tɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2576,11 +2576,11 @@
             {
               "parts": "nɪʎʧɨ-ŋ",
               "gloss": "такой-ADVZ",
-              "gloss_index": "",
+              "gloss_index": "такой{nɪʎʧɨ}-ADVZ{ŋ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "такой-ADVZ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "такой{nɪʎʧɨ}-ADVZ{ŋ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2597,11 +2597,11 @@
             {
               "parts": "ap-qɨl-p-atɨ",
               "gloss": "съесть-PLOBJ-PSTN-3SG.OBJ",
-              "gloss_index": "",
+              "gloss_index": "съесть{ap}-PLOBJ{qɨl}-PSTN{p}-3SG.OBJ{atɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "съесть-PLOBJ-PSTN-3SG.OBJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "съесть{ap}-PLOBJ{qɨl}-PSTN{p}-3SG.OBJ{atɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2696,11 +2696,11 @@
             {
               "parts": "pərʃa-ʎ",
               "gloss": "трепыхаться-ADJ",
-              "gloss_index": "",
+              "gloss_index": "трепыхаться{pərʃa}-ADJ{ʎ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "трепыхаться-ADJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "трепыхаться{pərʃa}-ADJ{ʎ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2717,11 +2717,11 @@
             {
               "parts": "pɔ:rɨ-ʎ",
               "gloss": "верх-ADJ",
-              "gloss_index": "",
+              "gloss_index": "верх{pɔ:rɨ}-ADJ{ʎ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "верх-ADJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "верх{pɔ:rɨ}-ADJ{ʎ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2738,11 +2738,11 @@
             {
               "parts": "qæ:-ka-n-tɨn",
               "gloss": "береза-DIM-GEN-POSS.3PL",
-              "gloss_index": "",
+              "gloss_index": "береза{qæ:}-DIM{ka}-GEN{n}-POSS.3PL{tɨn}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "береза-DIM-GEN-POSS.3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "береза{qæ:}-DIM{ka}-GEN{n}-POSS.3PL{tɨn}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2759,11 +2759,11 @@
             {
               "parts": "ʧonta:",
               "gloss": "середина.LOC",
-              "gloss_index": "",
+              "gloss_index": "середина.LOC{ʧonta:}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "середина.LOC",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "середина.LOC{ʧonta:}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2867,11 +2867,11 @@
             {
               "parts": "i:l-ɛ:-mp-ɔ:tɨt",
               "gloss": "подняться-PFV.INT-PSTN-3PL",
-              "gloss_index": "",
+              "gloss_index": "подняться{i:l}-PFV.INT{ɛ:}-PSTN{mp}-3PL{ɔ:tɨt}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "подняться-PFV.INT-PSTN-3PL",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "подняться{i:l}-PFV.INT{ɛ:}-PSTN{mp}-3PL{ɔ:tɨt}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2888,11 +2888,11 @@
             {
               "parts": "ken",
               "gloss": "ведь",
-              "gloss_index": "",
+              "gloss_index": "ведь{ken}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "ведь",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "ведь{ken}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2909,11 +2909,11 @@
             {
               "parts": "mɨta",
               "gloss": "EVID",
-              "gloss_index": "",
+              "gloss_index": "EVID{mɨta}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "EVID",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "EVID{mɨta}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -2930,11 +2930,11 @@
             {
               "parts": "naj",
               "gloss": "вот.как",
-              "gloss_index": "",
+              "gloss_index": "вот.как{naj}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот.как",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот.как{naj}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3020,11 +3020,11 @@
             {
               "parts": "kətsan",
               "gloss": "внук",
-              "gloss_index": "",
+              "gloss_index": "внук{kətsan}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "внук",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "внук{kətsan}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3041,11 +3041,11 @@
             {
               "parts": "jænnæ",
               "gloss": "вперед",
-              "gloss_index": "",
+              "gloss_index": "вперед{jænnæ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вперед",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вперед{jænnæ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3062,11 +3062,11 @@
             {
               "parts": "na",
               "gloss": "вот",
-              "gloss_index": "",
+              "gloss_index": "вот{na}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот{na}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3134,11 +3134,11 @@
             {
               "parts": "tεra",
               "gloss": "Тэра",
-              "gloss_index": "",
+              "gloss_index": "Тэра{tεra}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "Тэра",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "Тэра{tεra}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3155,11 +3155,11 @@
             {
               "parts": "iʎʧa-lɨ",
               "gloss": "дед-POSS.2SG",
-              "gloss_index": "",
+              "gloss_index": "дед{iʎʧa}-POSS.2SG{lɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "дед-POSS.2SG",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "дед{iʎʧa}-POSS.2SG{lɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3176,11 +3176,11 @@
             {
               "parts": "soma",
               "gloss": "хороший",
-              "gloss_index": "",
+              "gloss_index": "хороший{soma}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "хороший",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "хороший{soma}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3197,11 +3197,11 @@
             {
               "parts": "kojmɨ-tɨ",
               "gloss": "песня-POSS.3SG",
-              "gloss_index": "",
+              "gloss_index": "песня{kojmɨ}-POSS.3SG{tɨ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "песня-POSS.3SG",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "песня{kojmɨ}-POSS.3SG{tɨ}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3296,11 +3296,11 @@
             {
               "parts": "na",
               "gloss": "вот",
-              "gloss_index": "",
+              "gloss_index": "вот{na}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "вот",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "вот{na}-",
               "gr.pos": "<Not Sure>"
             }
           ],
@@ -3317,11 +3317,11 @@
             {
               "parts": "tεntɨ-k-aŋ",
               "gloss": "рассказать-HAB-1SG.SBJ",
-              "gloss_index": "",
+              "gloss_index": "рассказать{tεntɨ}-HAB{k}-1SG.SBJ{aŋ}-",
               "lex": "",
               "trans_ru": "",
               "gloss_ru": "рассказать-HAB-1SG.SBJ",
-              "gloss_index_ru": "",
+              "gloss_index_ru": "рассказать{tεntɨ}-HAB{k}-1SG.SBJ{aŋ}-",
               "gr.pos": "<Not Sure>"
             }
           ],

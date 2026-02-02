@@ -1,0 +1,19 @@
+{
+ "rows": [
+  "<div class=\"d-none d-sm-block col-md-2\"></div><div class=\"paragraph_num\"></div>\n<div class=\"col-sm-8\"><span class=\"sent_lang sent_lang_lang0\" id=\"res1_lang0\"><span class=\"sentence_meta\">year: 20210705</span>bi\taŋaniwu\tAnton\turbakkan \n</span></div>\n",
+  "<div class=\"d-none d-sm-block col-md-2\"></div><div class=\"paragraph_num\"></div>\n<div class=\"col-sm-8\"><span class=\"sent_lang sent_lang_lang0\" id=\"res1_lang0\"><span class=\"sentence_meta\">year: 20210705</span>akmu\torin\tskoladu\ttɨgənmelbɨ \n</span></div>\n",
+  "<div class=\"d-none d-sm-block col-md-2\"></div><div class=\"paragraph_num\"></div>\n<div class=\"col-sm-8\"><span class=\"sent_lang sent_lang_lang0\" id=\"res1_lang0\"><span class=\"sentence_meta\">year: 20210705</span>bi\toriwu\ttɨgɨnmej\tbudelgan \n</span></div>\n",
+  "<div class=\"d-none d-sm-block col-md-2\"></div><div class=\"paragraph_num\"></div>\n<div class=\"col-sm-8\"><span class=\"sent_lang sent_lang_lang0\" id=\"res1_lang0\"><span class=\"sentence_meta\">year: 20210705</span>bu\ton'ariwun\tikənŋen...\tfestival'du \n</span></div>\n"
+ ],
+ "meta": {
+  "filename": "test",
+  "author": "BKV",
+  "year": 20210705,
+  "recplace": "Bystraja district",
+  "title": "textname",
+  "genre": "newspaper",
+  "fulltext_id": "17",
+  "year_from": 20210705,
+  "year_to": 20210705
+ }
+}

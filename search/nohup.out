@@ -1,0 +1,42 @@
+compiling catalog translations_pybabel/hy/LC_MESSAGES/messages.po to translations_pybabel/hy/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/sq/LC_MESSAGES/messages.po to translations_pybabel/sq/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/zh/LC_MESSAGES/messages.po to translations_pybabel/zh/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/en/LC_MESSAGES/messages.po to translations_pybabel/en/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/ru/LC_MESSAGES/messages.po to translations_pybabel/ru/LC_MESSAGES/messages.mo
+WARNING: msg has more translations than num_plurals of catalog
+WARNING: Problem on line 628: ''
+Interface translations compiled.
+ * Serving Flask app 'web_app'
+ * Debug mode: on
+/tsakorpus/search/search_engine/client.py:148: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.docs',
+/tsakorpus/search/search_engine/client.py:168: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.words',
+/tsakorpus/search/search_engine/client.py:179: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.words',
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7343
+ * Running on http://172.22.0.2:7343
+[33mPress CTRL+C to quit[0m
+compiling catalog translations_pybabel/hy/LC_MESSAGES/messages.po to translations_pybabel/hy/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/sq/LC_MESSAGES/messages.po to translations_pybabel/sq/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/zh/LC_MESSAGES/messages.po to translations_pybabel/zh/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/en/LC_MESSAGES/messages.po to translations_pybabel/en/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/ru/LC_MESSAGES/messages.po to translations_pybabel/ru/LC_MESSAGES/messages.mo
+WARNING: msg has more translations than num_plurals of catalog
+WARNING: Problem on line 628: ''
+Interface translations compiled.
+ * Serving Flask app 'web_app'
+ * Debug mode: on
+/tsakorpus/search/search_engine/client.py:148: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.docs',
+/tsakorpus/search/search_engine/client.py:168: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.words',
+/tsakorpus/search/search_engine/client.py:179: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.words',
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7343
+ * Running on http://172.22.0.3:7343
+[33mPress CTRL+C to quit[0m

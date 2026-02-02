@@ -1,0 +1,195 @@
+{
+    "corpus_name": "ket",
+    "citation": "The corpus of the Ket language.",
+    "input_format": "json",
+    "debug": false,
+    "media": false,
+    "video": true,
+    "language_codes": {"ket": "ket", "ru": "ru", "en": "en"},
+    "json_indent": 2,
+    "media_length": 60,
+    "max_context_expand": 10,
+    "max_distance_filter": 200000,
+    "max_docs_retrieve": 9999,
+    "max_words_in_sentence": 40,
+    "query_timeout": 60,
+    "year_sort_enabled": true,
+    "viewable_meta": [
+      "filename",
+      "title",
+      "author",
+      "genre",
+      "year",
+      "recplace"
+    ],
+    "default_values": {"sent_meta_speaker_type": ""},
+    "sentence_meta": [],
+    "sentence_meta_values": {
+      "speaker_type": ["native", "linguist"]
+    },
+    "keyboards": {
+      "ket":"ket",
+      "russian": "russian"
+    },
+    "generate_dictionary": true,
+    "fulltext_view_enabled": true,
+    "use_nonpersistent_fulltext_id": true,
+    "languages": ["ket", "ru", "en"],
+    "transliterations": ["original", "cyrillic"],
+    "input_methods": ["normal"],
+    "interface_languages": [
+      "en",
+      "ru"
+    ],
+    "default_locale": "ru",
+    "default_view": "glossed",
+    "all_language_search_enabled": true,
+    "gloss_search_enabled": true,
+    "ambiguous_analyses": true,
+    "lang_props":
+    {
+      "ket":
+      {
+        "gloss_shortcuts": {
+          "case": "(nom|gen2?|acc|dat|ins|loc|ill|el|egr|term|prol|car|app|rcs|adv|dms)(\\.(sg|pl))?",
+          "poss": "(p\\.[123](sg|pl)(\\.acc)?)",
+          "p.acc": "(p\\.[123](sg|pl)\\.acc)",
+          "tense": "(pst2?|prs|fut|evid)(\\.[123](sg|pl)?)?",
+          "pst_any": "(pst(\\(1sg\\)|\\.[123](sg|pl))?)",
+          "fut_any": "(fut(\\(1sg\\)|\\.[123](sg|pl))?)",
+          "deriv": "(detr|iter|caus)",
+          "pers": "[123](sg|pl)?"
+        },
+        "gr_fields_order": ["nType", "adjType", "proType", "stemType", "num_deriv", "v_form", "attributivizer", "tense", "person", "number", "case", "poss"],
+        "gloss_selection": {
+          "columns": [
+            [
+              {"type": "header", "value": "Nominal inflection"},
+              {"type": "gloss", "value": "ABL", "tooltip": "ABL"},
+              {"type": "gloss", "value": "CAR", "tooltip": "CAR"},
+              {"type": "gloss", "value": "DATALL", "tooltip": "DATALL"},
+              {"type": "gloss", "value": "DATLOC", "tooltip": "DATLOC"},
+              {"type": "gloss", "value": "BEN", "tooltip": "BEN"},
+              {"type": "gloss", "value": "GEN", "tooltip": "GEN"},
+              {"type": "gloss", "value": "GEN.1SG", "tooltip": "GEN.1SG"},
+              {"type": "gloss", "value": "GEN.PL.NTH", "tooltip": "GEN.PL.NTH"},
+              {"type": "gloss", "value": "GEN.SG.M", "tooltip": "GEN.SG.M"},
+              {"type": "gloss", "value": "GEN.SG.NM", "tooltip": "GEN.SG.NM"},
+              {"type": "gloss", "value": "INSTR", "tooltip": "INSTR"},
+              {"type": "gloss", "value": "LOC", "tooltip": "LOC"},
+              {"type": "gloss", "value": "PROL", "tooltip": "PROL"},
+              {"type": "gloss", "value": "VOC", "tooltip": "VOC"},
+              {"type": "gloss", "value": "SG", "tooltip": "SG"},
+              {"type": "gloss", "value": "PL", "tooltip": "PL"},
+              {"type": "gloss", "value": "POSS.PL.NTH", "tooltip": "POSS.PL.NTH"}
+            ],
+            [
+              {"type": "header", "value": "Tense"},
+              {"type": "gloss", "value": "PRS", "tooltip": "PRS"},
+              {"type": "gloss", "value": "PST", "tooltip": "PST"},
+              {"type": "gloss", "value": "T.PRS", "tooltip": "T.PRS"},
+              {"type": "gloss", "value": "T.PST", "tooltip": "T.PST"}
+            ],
+            [
+              {"type": "header", "value": "Subject agreement"},
+              {"type": "gloss", "value": "S1.1", "tooltip": "S1.1"},
+              {"type": "gloss", "value": "S1.2", "tooltip": "S1.2"},
+              {"type": "gloss", "value": "S1.2PL", "tooltip": "S1.2PL"},
+              {"type": "gloss", "value": "S1.3", "tooltip": "S1.3"},
+              {"type": "gloss", "value": "S1.3F", "tooltip": "S1.3F"},
+              {"type": "gloss", "value": "S1.3M", "tooltip": "S1.3M"},
+              {"type": "gloss", "value": "S1.3TH", "tooltip": "S1.3TH"},
+              {"type": "gloss", "value": "S1.PL", "tooltip": "S1.PL"},
+              {"type": "gloss", "value": "S1.SG", "tooltip": "S1.SG"},
+              {"type": "gloss", "value": "S2.3SG.TH", "tooltip": "S2.3SG.TH"},
+              {"type": "gloss", "value": "S3.1PL", "tooltip": "S3.1PL"},
+              {"type": "gloss", "value": "S3.1SG", "tooltip": "S3.1SG"},
+              {"type": "gloss", "value": "S3.2SG", "tooltip": "S3.2SG"},
+              {"type": "gloss", "value": "S3.3M.SG", "tooltip": "S3.3M.SG"},
+              {"type": "gloss", "value": "S3.3PL", "tooltip": "S3.3PL"},
+              {"type": "gloss", "value": "S3.3SG.F", "tooltip": "S3.3SG.F"},
+              {"type": "gloss", "value": "S3.3SG.M", "tooltip": "S3.3SG.M"},
+              {"type": "gloss", "value": "S3.3SG.TH", "tooltip": "S3.3SG.TH"},
+              {"type": "gloss", "value": "S3.3SH.F", "tooltip": "S3.3SH.F"}
+            ],
+            [
+              {"type": "header", "value": "Object agreement"},
+              {"type": "gloss", "value": "O2.1PL.CORF", "tooltip": "O2.1PL.CORF"},
+              {"type": "gloss", "value": "O2.1SG", "tooltip": "O2.1SG"},
+              {"type": "gloss", "value": "O2.1SG.CORF", "tooltip": "O2.1SG.CORF"},
+              {"type": "gloss", "value": "O2.3M.CORF", "tooltip": "O2.3M.CORF"},
+              {"type": "gloss", "value": "O2.3PL", "tooltip": "O2.3PL"},
+              {"type": "gloss", "value": "O2.3PL.CORF", "tooltip": "O2.3PL.CORF"},
+              {"type": "gloss", "value": "O2.3SG.M", "tooltip": "O2.3SG.M"},
+              {"type": "gloss", "value": "O2.3SG.M.CORF", "tooltip": "O2.3SG.M.CORF"},
+              {"type": "gloss", "value": "O2.3SG.TH", "tooltip": "O2.3SG.TH"},
+              {"type": "gloss", "value": "O2.3SG.TH.CORF", "tooltip": "O2.3SG.TH.CORF"},
+              {"type": "gloss", "value": "O3.1PL", "tooltip": "O3.1PL"},
+              {"type": "gloss", "value": "O3.1PL.CORF", "tooltip": "O3.1PL.CORF"},
+              {"type": "gloss", "value": "O3.1SG", "tooltip": "O3.1SG"},
+              {"type": "gloss", "value": "O3.1SG.CORF", "tooltip": "O3.1SG.CORF"},
+              {"type": "gloss", "value": "O3.2SG", "tooltip": "O3.2SG"},
+              {"type": "gloss", "value": "O3.3M.SG", "tooltip": "O3.3M.SG"},
+              {"type": "gloss", "value": "O3.3PL", "tooltip": "O3.3PL"},
+              {"type": "gloss", "value": "O3.3PL.CORF", "tooltip": "O3.3PL.CORF"},
+              {"type": "gloss", "value": "O3.3PLCORF", "tooltip": "O3.3PLCORF"},
+              {"type": "gloss", "value": "O3.3SG.F", "tooltip": "O3.3SG.F"},
+              {"type": "gloss", "value": "O3.3SG.M", "tooltip": "O3.3SG.M"},
+              {"type": "gloss", "value": "O3.3SG.TH", "tooltip": "O3.3SG.TH"}
+            ],
+            [
+              {"type": "header", "value": "Other verb tags"},
+              {"type": "gloss", "value": "IMPER", "tooltip": "IMPER"},
+              {"type": "gloss", "value": "MOD", "tooltip": "MOD"},
+              {"type": "gloss", "value": "NEG", "tooltip": "NEG"},
+              {"type": "gloss", "value": "LV", "tooltip": "light verb"}
+  
+            ],
+            [
+              {"type": "header", "value": "Reflexive form"},
+              {"type": "gloss", "value": "1PL", "tooltip": "1PL"},
+              {"type": "gloss", "value": "1SG", "tooltip": "1SG"},
+              {"type": "gloss", "value": "3PL", "tooltip": "3PL"},
+              {"type": "gloss", "value": "3SG.F", "tooltip": "3SG.F"}
+            ],
+            [
+              {"type": "header", "value": "Predicative form"},
+              {"type": "gloss", "value": "PRED", "tooltip": "PRED"},
+              {"type": "gloss", "value": "PRED.A", "tooltip": "PRED.A"},
+              {"type": "gloss", "value": "PRED.NA", "tooltip": "PRED.NA"}
+            ],
+            [
+              {"type": "header", "value": "Other"},
+              {"type": "gloss", "value": "ADV", "tooltip": "ADV"},
+              {"type": "gloss", "value": "DET", "tooltip": "DET"},
+              {"type": "gloss", "value": "DETR", "tooltip": "DETR"},
+              {"type": "gloss", "value": "EP", "tooltip": "EP"},
+              {"type": "gloss", "value": "HES", "tooltip": "HES"},
+              {"type": "gloss", "value": "NTH", "tooltip": "NTH"}
+            ]
+          ]
+        },
+        "gramm_selection": {"columns": [
+            [
+              {"type": "header", "value": "Nominal inflection"},
+              {"type": "gramm", "value": "ABL", "tooltip": "ABL"},
+              {"type": "gramm", "value": "CAR", "tooltip": "CAR"},
+              {"type": "gramm", "value": "DATALL", "tooltip": "DATALL"},
+              {"type": "gramm", "value": "DATLOC", "tooltip": "DATLOC"},
+              {"type": "gramm", "value": "BEN", "tooltip": "BEN"},
+              {"type": "gramm", "value": "GEN", "tooltip": "GEN"},
+              {"type": "gramm", "value": "GEN.1SG", "tooltip": "GEN.1SG"},
+              {"type": "gramm", "value": "GEN.PL.NTH", "tooltip": "GEN.PL.NTH"},
+              {"type": "gramm", "value": "GEN.SG.M", "tooltip": "GEN.SG.M"},
+              {"type": "gramm", "value": "GEN.SG.NM", "tooltip": "GEN.SG.NM"},
+              {"type": "gramm", "value": "INSTR", "tooltip": "INSTR"},
+              {"type": "gramm", "value": "LOC", "tooltip": "LOC"},
+              {"type": "gramm", "value": "PROL", "tooltip": "PROL"},
+              {"type": "gramm", "value": "VOC", "tooltip": "VOC"},
+              {"type": "gramm", "value": "SG", "tooltip": "SG"},
+              {"type": "gramm", "value": "PL", "tooltip": "PL"},
+              {"type": "gramm", "value": "POSS.PL.NTH", "tooltip": "POSS.PL.NTH"}
+        ]]}}
+    },
+    "elastic_url":"http://elasticsearch:9200"
+  }

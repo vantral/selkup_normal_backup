@@ -1,0 +1,3402 @@
+{
+  "meta": {
+    "title": "(1) Че̄лыт(ы) ай ирӓты че̄лэнты най,",
+    "filename": "corpus\\txt\\Песня Тэры, отца Салды.txt"
+  },
+  "sentences": [
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Че̄лыт(ы)",
+          "ana": [
+            {
+              "parts": "ʧe:lɨ-t(ɨ)",
+              "gloss": "солнце-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "солнце-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 9,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "ай",
+          "ana": [
+            {
+              "parts": "aj",
+              "gloss": "и",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "и",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 10,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "ирӓты",
+          "ana": [
+            {
+              "parts": "iræ-tɨ",
+              "gloss": "луна-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "луна-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 18,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "че̄лэнты",
+          "ana": [
+            {
+              "parts": "ʧe:l-εnt-ɨ",
+              "gloss": "светить-IPFV-3SG.SBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "светить-IPFV-3SG.SBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 19,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най,",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 28,
+          "off_end": 32,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Че̄лыт(ы) ай ирӓты че̄лэнты най,",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 32,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Солнце",
+          "wtype": "word",
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 7
+        },
+        {
+          "off_start": 8,
+          "wf": "и",
+          "wtype": "word",
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 10,
+          "wf": "луна",
+          "wtype": "word",
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 15,
+          "wf": "светят",
+          "wtype": "word",
+          "off_end": 21,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 22,
+          "wf": "(букв.",
+          "wtype": "word",
+          "off_end": 28,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 29,
+          "wf": "светит)",
+          "wtype": "word",
+          "off_end": 36,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 37,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 40,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 41,
+          "wf": "как,’",
+          "wtype": "word",
+          "off_end": 46,
+          "sentence_index": 7,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Солнце и луна светят (букв. светит) вот как,’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 46,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "iннäны",
+          "ana": [
+            {
+              "parts": "ɪnnæ-nɨ",
+              "gloss": "вверх-ELA",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вверх-ELA",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄə̄тыммынта",
+          "ana": [
+            {
+              "parts": "qə̄tɨ-mmɨ-nt-a",
+              "gloss": "сиять-DUR-EVID-3SG.SBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "сиять-DUR-EVID-3SG.SBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 18,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "на.",
+          "ana": [
+            {
+              "parts": "na",
+              "gloss": "вот",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 19,
+          "off_end": 22,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "iннäны ӄə̄тыммынта на.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 22,
+          "para_id": 2
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘сверху",
+          "wtype": "word",
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 8,
+          "wf": "сияют",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 14,
+          "wf": "(букв.",
+          "wtype": "word",
+          "off_end": 20,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 21,
+          "wf": "сияет)",
+          "wtype": "word",
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 28,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 32,
+          "wf": "так.’",
+          "wtype": "word",
+          "off_end": 37,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘сверху сияют (букв. сияет) вот так.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 37,
+          "para_id": 2
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Ӄiшӄан",
+          "ana": [
+            {
+              "parts": "qɪʃqa-n",
+              "gloss": "звезда-PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "звезда-PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "нан",
+          "ana": [
+            {
+              "parts": "nan",
+              "gloss": "долго",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "долго",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 10,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "эй",
+          "ana": [
+            {
+              "parts": "εj",
+              "gloss": "тоже",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "тоже",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 11,
+          "off_end": 13,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄə̄тӓлыммынтө̄тын.",
+          "ana": [
+            {
+              "parts": "qə:t-ælɨ-mmɨ-nt-ɔ:tɨn",
+              "gloss": "сиять-PLSBJ-DUR-EVID-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "сиять-PLSBJ-DUR-EVID-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 14,
+          "off_end": 32,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Ӄiшӄан нан эй ӄə̄тӓлыммынтө̄тын.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 32,
+          "para_id": 3
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Звезды",
+          "wtype": "word",
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 8,
+          "wf": "тоже",
+          "wtype": "word",
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 13,
+          "wf": "всё",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 17,
+          "wf": "сияют,",
+          "wtype": "word",
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 24,
+          "wf": "будто.’",
+          "wtype": "word",
+          "off_end": 31,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Звезды тоже всё сияют, будто.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 31,
+          "para_id": 3
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Iннäль",
+          "ana": [
+            {
+              "parts": "ɪnnæ-ʎ",
+              "gloss": "вверх-ADJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вверх-ADJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "по̄т",
+          "ana": [
+            {
+              "parts": "po:-t",
+              "gloss": "дерево-GEN",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "дерево-GEN",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 11,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "контыль",
+          "ana": [
+            {
+              "parts": "kontɨ-ʎ",
+              "gloss": "корень-ADJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "корень-ADJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 12,
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "мо̄рыльм(ы)",
+          "ana": [
+            {
+              "parts": "mōrɨ-ʎm(ɨ)",
+              "gloss": "конец-COLL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "конец-COLL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 31,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "iллä",
+          "ana": [
+            {
+              "parts": "ɪllæ",
+              "gloss": "вниз",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вниз",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 32,
+          "off_end": 36,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Iннäль по̄т контыль мо̄рыльм(ы) iллä",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 36,
+          "para_id": 4
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Кончики",
+          "wtype": "word",
+          "off_end": 8,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 9,
+          "wf": "корней",
+          "wtype": "word",
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 16,
+          "wf": "верхних",
+          "wtype": "word",
+          "off_end": 23,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 24,
+          "wf": "(небесных)",
+          "wtype": "word",
+          "off_end": 34,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 35,
+          "wf": "деревьев",
+          "wtype": "word",
+          "off_end": 43,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 44,
+          "wf": "вниз’",
+          "wtype": "word",
+          "off_end": 49,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Кончики корней верхних (небесных) деревьев вниз’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 49,
+          "para_id": 4
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "светят",
+          "ana": [
+            {
+              "parts": "ʧe:l-εi̯εnt5-ɔ:tɨn",
+              "gloss": "светить-IPFV-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "светить-IPFV-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "вроде",
+          "ana": [
+            {
+              "parts": "mɨta",
+              "gloss": "EVID",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "EVID",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "так.",
+          "ana": [
+            {
+              "parts": "nɪ-ŋ",
+              "gloss": "такой-ADVZ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "такой-ADVZ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 17,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "светят вроде так.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 17,
+          "para_id": 5
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘светят",
+          "wtype": "word",
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 8,
+          "wf": "вроде",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 14,
+          "wf": "так.’",
+          "wtype": "word",
+          "off_end": 19,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘светят вроде так.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 19,
+          "para_id": 5
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Че̄лӓлымпө̄тын",
+          "ana": [
+            {
+              "parts": "ʧe:l-ӓlɨ-mp-ɔ:tɨn",
+              "gloss": "светить-PLSBJ-DUR-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "светить-PLSBJ-DUR-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 14,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "мыта",
+          "ana": [
+            {
+              "parts": "mɨta",
+              "gloss": "EVID",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "EVID",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 15,
+          "off_end": 19,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най,",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 24,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Че̄лӓлымпө̄тын мыта най,",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 24,
+          "para_id": 6
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Светят",
+          "wtype": "word",
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 8,
+          "wf": "вроде",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 14,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 17,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 18,
+          "wf": "как,’",
+          "wtype": "word",
+          "off_end": 23,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Светят вроде вот как,’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 23,
+          "para_id": 6
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "на",
+          "ana": [
+            {
+              "parts": "na",
+              "gloss": "вот",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄə̄тыммынтө̄тын",
+          "ana": [
+            {
+              "parts": "qə:tɨ-mmɨ-nt-ɔ:tɨn",
+              "gloss": "сиять-DUR-EVID-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "сиять-DUR-EVID-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 18,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "нэй-а.",
+          "ana": [
+            {
+              "parts": "nεj-a1",
+              "gloss": "вот.как-MEL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как-MEL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 19,
+          "off_end": 25,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "на ӄə̄тыммынтө̄тын нэй-а.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 25,
+          "para_id": 7
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘вот",
+          "wtype": "word",
+          "off_end": 4,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 5,
+          "wf": "сияют",
+          "wtype": "word",
+          "off_end": 10,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 11,
+          "wf": "будто",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 17,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 20,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 21,
+          "wf": "как.’",
+          "wtype": "word",
+          "off_end": 26,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘вот сияют будто вот как.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 26,
+          "para_id": 7
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Iннäль",
+          "ana": [
+            {
+              "parts": "ɪnnæ-ʎ",
+              "gloss": "вверх-ADJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вверх-ADJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "по̄н",
+          "ana": [
+            {
+              "parts": "po:-n",
+              "gloss": "дерево-GEN",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "дерево-GEN",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 11,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "контыль",
+          "ana": [
+            {
+              "parts": "kontɨ-ʎ",
+              "gloss": "корень-ADJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "корень-ADJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 12,
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "мо̄рын",
+          "ana": [
+            {
+              "parts": "mo:rɨ-n",
+              "gloss": "конец-PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "конец-PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 26,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "iннäн",
+          "ana": [
+            {
+              "parts": "ɪnnæ-n",
+              "gloss": "вверх-LOC",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вверх-LOC",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 27,
+          "off_end": 32,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 33,
+          "off_end": 36,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Iннäль по̄н контыль мо̄рын iннäн най",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 36,
+          "para_id": 8
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Концы",
+          "wtype": "word",
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 7,
+          "wf": "корней",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 14,
+          "wf": "небесных",
+          "wtype": "word",
+          "off_end": 22,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 23,
+          "wf": "деревьев",
+          "wtype": "word",
+          "off_end": 31,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 32,
+          "wf": "наверху",
+          "wtype": "word",
+          "off_end": 39,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 40,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 43,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 44,
+          "wf": "как’",
+          "wtype": "word",
+          "off_end": 48,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Концы корней небесных деревьев наверху вот как’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 48,
+          "para_id": 8
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Нымты",
+          "ana": [
+            {
+              "parts": "nɨmtɨ",
+              "gloss": "там",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "там",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 5,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "найэнта",
+          "ana": [
+            {
+              "parts": "najεnta",
+              "gloss": "вот.так",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.так",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "нө̄ӄыр",
+          "ana": [
+            {
+              "parts": "nɔ:qɨr",
+              "gloss": "три",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "три",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 14,
+          "off_end": 20,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "че̄лыты,",
+          "ana": [
+            {
+              "parts": "ʧe:lɨ-tɨ",
+              "gloss": "солнце-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "солнце-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 21,
+          "off_end": 29,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "нө̄ӄыр",
+          "ana": [
+            {
+              "parts": "nɔ:qɨr",
+              "gloss": "три",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "три",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 30,
+          "off_end": 36,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "ирäты.",
+          "ana": [
+            {
+              "parts": "iræ-tɨ",
+              "gloss": "луна-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "луна-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 37,
+          "off_end": 43,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Нымты найэнта нө̄ӄыр че̄лыты, нө̄ӄыр ирäты.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 43,
+          "para_id": 10
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Там,",
+          "wtype": "word",
+          "off_end": 5,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 6,
+          "wf": "оказывается,",
+          "wtype": "word",
+          "off_end": 18,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 19,
+          "wf": "три",
+          "wtype": "word",
+          "off_end": 22,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 23,
+          "wf": "солнца,",
+          "wtype": "word",
+          "off_end": 30,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 31,
+          "wf": "три",
+          "wtype": "word",
+          "off_end": 34,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 35,
+          "wf": "луны.’",
+          "wtype": "word",
+          "off_end": 41,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Там, оказывается, три солнца, три луны.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 41,
+          "para_id": 10
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Кəнтэ̄лӓ",
+          "ana": [
+            {
+              "parts": "kənt-ε:-læ",
+              "gloss": "подкрасться-PFV.INT-CVB",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "подкрасться-PFV.INT-CVB",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 8,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "тəттын",
+          "ana": [
+            {
+              "parts": "təttɨ-n",
+              "gloss": "земля-GEN",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "земля-GEN",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 9,
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "вәтто̄ӄын",
+          "ana": [
+            {
+              "parts": "wәtto:-qɨn",
+              "gloss": "дорога-LOC",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "дорога-LOC",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 25,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най,",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 26,
+          "off_end": 30,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Кəнтэ̄лӓ тəттын вәтто̄ӄын най,",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 30,
+          "para_id": 11
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Подкравшись,",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 14,
+          "wf": "на",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 17,
+          "wf": "дороге",
+          "wtype": "word",
+          "off_end": 23,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 24,
+          "wf": "земли",
+          "wtype": "word",
+          "off_end": 29,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 30,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 33,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 34,
+          "wf": "как’",
+          "wtype": "word",
+          "off_end": 38,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Подкравшись, на дороге земли вот как’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 38,
+          "para_id": 11
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Маннымпаӈ,",
+          "ana": [
+            {
+              "parts": "mannɨ-mp-aŋ",
+              "gloss": "посмотреть-DUR-1SG.SBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "посмотреть-DUR-1SG.SBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 10,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "эй",
+          "ana": [
+            {
+              "parts": "ɛj",
+              "gloss": "опять",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "опять",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 11,
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "маннымпаӈ,",
+          "ana": [
+            {
+              "parts": "mannɨ-mp-aŋ",
+              "gloss": "посмотреть-DUR-1SG.SBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "посмотреть-DUR-1SG.SBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 14,
+          "off_end": 24,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "эй",
+          "ana": [
+            {
+              "parts": "ɛj",
+              "gloss": "опять",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "опять",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 25,
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най.",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 28,
+          "off_end": 32,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Маннымпаӈ, эй маннымпаӈ, эй най.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 32,
+          "para_id": 13
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Смотрю,",
+          "wtype": "word",
+          "off_end": 8,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 9,
+          "wf": "смотрю,",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 17,
+          "wf": "опять",
+          "wtype": "word",
+          "off_end": 22,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 23,
+          "wf": "и",
+          "wtype": "word",
+          "off_end": 24,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 25,
+          "wf": "опять,",
+          "wtype": "word",
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 32,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 35,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 36,
+          "wf": "как.’",
+          "wtype": "word",
+          "off_end": 41,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Смотрю, смотрю, опять и опять, вот как.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 41,
+          "para_id": 13
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Сельчы",
+          "ana": [
+            {
+              "parts": "seʎʧɨ",
+              "gloss": "семь",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "семь",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "лiмпы",
+          "ana": [
+            {
+              "parts": "lɪmpɨ",
+              "gloss": "орел",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "орел",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "илынта",
+          "ana": [
+            {
+              "parts": "ilɨ-nt-a",
+              "gloss": "жить-EVID-3SG.SBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "жить-EVID-3SG.SBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "на.",
+          "ana": [
+            {
+              "parts": "na",
+              "gloss": "вот",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 23,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Сельчы лiмпы илынта на.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 23,
+          "para_id": 14
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Семь",
+          "wtype": "word",
+          "off_end": 5,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 6,
+          "wf": "орлов",
+          "wtype": "word",
+          "off_end": 11,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 12,
+          "wf": "живут",
+          "wtype": "word",
+          "off_end": 17,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 18,
+          "wf": "вроде",
+          "wtype": "word",
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 24,
+          "wf": "(там)",
+          "wtype": "word",
+          "off_end": 29,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 30,
+          "wf": "вот.’",
+          "wtype": "word",
+          "off_end": 35,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Семь орлов живут вроде (там) вот.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 35,
+          "para_id": 14
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Кӯтынтыт",
+          "ana": [
+            {
+              "parts": "ku:tɨ-n-tɨt",
+              "gloss": "крыло-GEN-POSS.3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "крыло-GEN-POSS.3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 9,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "пө̄рын",
+          "ana": [
+            {
+              "parts": "pɔ:rɨ-n",
+              "gloss": "верх-PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "верх-PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 10,
+          "off_end": 16,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "кен",
+          "ana": [
+            {
+              "parts": "ken",
+              "gloss": "ведь",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "ведь",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 17,
+          "off_end": 20,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "мыта",
+          "ana": [
+            {
+              "parts": "mɨta",
+              "gloss": "EVID",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "EVID",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 21,
+          "off_end": 25,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 26,
+          "off_end": 29,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Кӯтынтыт пө̄рын кен мыта най",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 29,
+          "para_id": 15
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Верхние",
+          "wtype": "word",
+          "off_end": 8,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 9,
+          "wf": "края",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 14,
+          "wf": "крыльев",
+          "wtype": "word",
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 22,
+          "wf": "у",
+          "wtype": "word",
+          "off_end": 23,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 24,
+          "wf": "них",
+          "wtype": "word",
+          "off_end": 27,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 28,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 31,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 32,
+          "wf": "как’",
+          "wtype": "word",
+          "off_end": 36,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Верхние края крыльев у них вот как’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 36,
+          "para_id": 15
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Мыта",
+          "ana": [
+            {
+              "parts": "mɨta",
+              "gloss": "EVID",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "EVID",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 4,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "ӣлäптылä",
+          "ana": [
+            {
+              "parts": "i:l-æptɨ-læ",
+              "gloss": "подняться-ATTEN-CVB",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "подняться-ATTEN-CVB",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 5,
+          "off_end": 14,
+          "sentence_index": 1,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Мыта ӣлäптылä",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 14,
+          "para_id": 17
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Вроде,",
+          "wtype": "word",
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 8,
+          "wf": "приподнявшись,’",
+          "wtype": "word",
+          "off_end": 23,
+          "sentence_index": 1,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Вроде, приподнявшись,’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 23,
+          "para_id": 17
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "пӱматө̄лкө̄тын",
+          "ana": [
+            {
+              "parts": "pyr-ma-t-ɔ:l-k-ɔ:tɨn",
+              "gloss": "спариваться-NMLZ-VBLZ-PLOBJ-HAB-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "спариваться-NMLZ-VBLZ-PLOBJ-HAB-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 14,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "ме̄л",
+          "ana": [
+            {
+              "parts": "me:l",
+              "gloss": "всегда",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "всегда",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 15,
+          "off_end": 19,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "йо",
+          "ana": [
+            {
+              "parts": "jo",
+              "gloss": "MEL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "MEL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 22,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най.",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 23,
+          "off_end": 27,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "пӱматө̄лкө̄тын ме̄л йо най.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 27,
+          "para_id": 19
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘спариваются",
+          "wtype": "word",
+          "off_end": 12,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 13,
+          "wf": "все",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 17,
+          "wf": "время,",
+          "wtype": "word",
+          "off_end": 23,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 24,
+          "wf": "йо,",
+          "wtype": "word",
+          "off_end": 27,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 28,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 32,
+          "wf": "как.’",
+          "wtype": "word",
+          "off_end": 37,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘спариваются все время, йо, вот как.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 37,
+          "para_id": 19
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "На",
+          "ana": [
+            {
+              "parts": "na",
+              "gloss": "вот",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄай",
+          "ana": [
+            {
+              "parts": "qaj",
+              "gloss": "что",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "что",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 6,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "момпа",
+          "ana": [
+            {
+              "parts": "mompa",
+              "gloss": "REPORT",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "REPORT",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 12,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "На ӄай момпа",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 12,
+          "para_id": 20
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘И",
+          "wtype": "word",
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 3,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 6,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 7,
+          "wf": "что:",
+          "wtype": "word",
+          "off_end": 11,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 12,
+          "wf": "говорят,’",
+          "wtype": "word",
+          "off_end": 21,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘И вот что: говорят,’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 21,
+          "para_id": 20
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "че̄лыты",
+          "ana": [
+            {
+              "parts": "ʧe:lɨ-tɨ",
+              "gloss": "солнце-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "солнце-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "нiльчыӈ",
+          "ana": [
+            {
+              "parts": "nɪʎʧɨ-ŋ",
+              "gloss": "такой-ADVZ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "такой-ADVZ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 8,
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "апӄылпаты.",
+          "ana": [
+            {
+              "parts": "ap-qɨl-p-atɨ",
+              "gloss": "съесть-PLOBJ-PSTN-3SG.OBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "съесть-PLOBJ-PSTN-3SG.OBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 26,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "че̄лыты нiльчыӈ апӄылпаты.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 26,
+          "para_id": 21
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘cолнце",
+          "wtype": "word",
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 8,
+          "wf": "так",
+          "wtype": "word",
+          "off_end": 11,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 12,
+          "wf": "обожгло",
+          "wtype": "word",
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 20,
+          "wf": "их",
+          "wtype": "word",
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 23,
+          "wf": "(кончики",
+          "wtype": "word",
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 32,
+          "wf": "крыльев)!’",
+          "wtype": "word",
+          "off_end": 42,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘cолнце так обожгло их (кончики крыльев)!’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 42,
+          "para_id": 21
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Пəршаль",
+          "ana": [
+            {
+              "parts": "pərʃa-ʎ",
+              "gloss": "трепыхаться-ADJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "трепыхаться-ADJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "пө̄рыль",
+          "ana": [
+            {
+              "parts": "pɔ:rɨ-ʎ",
+              "gloss": "верх-ADJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "верх-ADJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 8,
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄǟкантын",
+          "ana": [
+            {
+              "parts": "qæ:-ka-n-tɨn",
+              "gloss": "береза-DIM-GEN-POSS.3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "береза-DIM-GEN-POSS.3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 24,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "чонта̄",
+          "ana": [
+            {
+              "parts": "ʧonta:",
+              "gloss": "середина.LOC",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "середина.LOC",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 25,
+          "off_end": 31,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Пəршаль пө̄рыль ӄǟкантын чонта̄",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 31,
+          "para_id": 22
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Среди",
+          "wtype": "word",
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 7,
+          "wf": "(ветвей)",
+          "wtype": "word",
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 16,
+          "wf": "своей",
+          "wtype": "word",
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 22,
+          "wf": "кудрявой",
+          "wtype": "word",
+          "off_end": 30,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 31,
+          "wf": "(букв.",
+          "wtype": "word",
+          "off_end": 37,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 38,
+          "wf": "всклокоченной)",
+          "wtype": "word",
+          "off_end": 52,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 53,
+          "wf": "березки,’",
+          "wtype": "word",
+          "off_end": 62,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Среди (ветвей) своей кудрявой (букв. всклокоченной) березки,’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 62,
+          "para_id": 22
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "ӣлэ̄мпө̄тыт",
+          "ana": [
+            {
+              "parts": "i:l-ɛ:-mp-ɔ:tɨt",
+              "gloss": "подняться-PFV.INT-PSTN-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "подняться-PFV.INT-PSTN-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 12,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "кен",
+          "ana": [
+            {
+              "parts": "ken",
+              "gloss": "ведь",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "ведь",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 16,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "мыта",
+          "ana": [
+            {
+              "parts": "mɨta",
+              "gloss": "EVID",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "EVID",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 17,
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "най.",
+          "ana": [
+            {
+              "parts": "naj",
+              "gloss": "вот.как",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот.как",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 22,
+          "off_end": 26,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "ӣлэ̄мпө̄тыт кен мыта най.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 26,
+          "para_id": 24
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘поднялись",
+          "wtype": "word",
+          "off_end": 10,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 11,
+          "wf": "ведь",
+          "wtype": "word",
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 16,
+          "wf": "вроде",
+          "wtype": "word",
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 22,
+          "wf": "вот",
+          "wtype": "word",
+          "off_end": 25,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 26,
+          "wf": "так,’",
+          "wtype": "word",
+          "off_end": 31,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘поднялись ведь вроде вот так,’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 31,
+          "para_id": 24
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Кəтсан,",
+          "ana": [
+            {
+              "parts": "kətsan",
+              "gloss": "внук",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "внук",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "яннä",
+          "ana": [
+            {
+              "parts": "jænnæ",
+              "gloss": "вперед",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вперед",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 8,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "на",
+          "ana": [
+            {
+              "parts": "na",
+              "gloss": "вот",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 15,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Кəтсан, яннä на",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 15,
+          "para_id": 25
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘внук,",
+          "wtype": "word",
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 7,
+          "wf": "вперед",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 14,
+          "wf": "вот’",
+          "wtype": "word",
+          "off_end": 18,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘внук, вперед вот’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 18,
+          "para_id": 25
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Тэра",
+          "ana": [
+            {
+              "parts": "tεra",
+              "gloss": "Тэра",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "Тэра",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 4,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "ильчалы",
+          "ana": [
+            {
+              "parts": "iʎʧa-lɨ",
+              "gloss": "дед-POSS.2SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "дед-POSS.2SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 5,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "сома",
+          "ana": [
+            {
+              "parts": "soma",
+              "gloss": "хороший",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "хороший",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 17,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "коймыты.",
+          "ana": [
+            {
+              "parts": "kojmɨ-tɨ",
+              "gloss": "песня-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "песня-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 18,
+          "off_end": 26,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Тэра ильчалы сома коймыты.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 26,
+          "para_id": 27
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘У",
+          "wtype": "word",
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 3,
+          "wf": "твоего",
+          "wtype": "word",
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 10,
+          "wf": "деда",
+          "wtype": "word",
+          "off_end": 14,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 15,
+          "wf": "Тэры",
+          "wtype": "word",
+          "off_end": 19,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 20,
+          "wf": "хорошая",
+          "wtype": "word",
+          "off_end": 27,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 28,
+          "wf": "песня.’",
+          "wtype": "word",
+          "off_end": 35,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘У твоего деда Тэры хорошая песня.’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 35,
+          "para_id": 27
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "на",
+          "ana": [
+            {
+              "parts": "na",
+              "gloss": "вот",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вот",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "тэнтакаӈ.",
+          "ana": [
+            {
+              "parts": "tεntɨ-k-aŋ",
+              "gloss": "рассказать-HAB-1SG.SBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "рассказать-HAB-1SG.SBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 3,
+          "off_end": 12,
+          "sentence_index": 1,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "на тэнтакаӈ.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 12,
+          "para_id": 28
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Вот",
+          "wtype": "word",
+          "off_end": 4,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 5,
+          "wf": "я",
+          "wtype": "word",
+          "off_end": 6,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 7,
+          "wf": "пересказываю",
+          "wtype": "word",
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 20,
+          "wf": "(передаю)",
+          "wtype": "word",
+          "off_end": 29,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 30,
+          "wf": "(ее).’",
+          "wtype": "word",
+          "off_end": 36,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Вот я пересказываю (передаю) (ее).’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 36,
+          "para_id": 28
+        }
+      ],
+      "last": true
+    }
+  ]
+}

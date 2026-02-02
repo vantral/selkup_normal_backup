@@ -1,0 +1,78 @@
+compiling catalog translations_pybabel/hy/LC_MESSAGES/messages.po to translations_pybabel/hy/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/sq/LC_MESSAGES/messages.po to translations_pybabel/sq/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/zh/LC_MESSAGES/messages.po to translations_pybabel/zh/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/en/LC_MESSAGES/messages.po to translations_pybabel/en/LC_MESSAGES/messages.mo
+compiling catalog translations_pybabel/ru/LC_MESSAGES/messages.po to translations_pybabel/ru/LC_MESSAGES/messages.mo
+WARNING: msg has more translations than num_plurals of catalog
+WARNING: Problem on line 628: ''
+Interface translations compiled.
+ * Serving Flask app 'web_app'
+ * Debug mode: on
+/tsakorpus/search/search_engine/client.py:148: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.docs',
+/tsakorpus/search/search_engine/client.py:168: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.words',
+/tsakorpus/search/search_engine/client.py:179: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.words',
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7343
+ * Running on http://172.22.0.3:7343
+[33mPress CTRL+C to quit[0m
+/tsakorpus/search/search_engine/client.py:188: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  return self.es.ping()
+172.22.0.1 - - [26/Feb/2023 14:44:28] "GET /search HTTP/1.0" 200 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/bootstrap-5.0.0-beta1-dist/css/bootstrap.min.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/css/search.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/css/span_styles.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/css/gramm_gloss_selection.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/icons-1.4.1/font/bootstrap-icons.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/jquery-3.5.1-dist/jquery-3.5.1.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/autocomplete_devbridge/jquery.autocomplete.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/bootstrap-5.0.0-beta1-dist/js/bootstrap.bundle.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/js/common_interface_functions.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/js/virtual_keyboards.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/js/result_parser.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/js/json_loaders.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/js/query_share_load.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/kioskboard-1.4.0/kioskboard-1.4.0.min.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:28] "[36mGET /static/kioskboard-1.4.0/kioskboard-1.4.0.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:29] "[36mGET /static/d3/d3.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:29] "[36mGET /static/js/word_stats.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:29] "[36mGET /static/js/select_subcorpus.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:29] "[36mGET /static/img/search_in_progress.gif HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:29] "[36mGET /static/icons-1.4.1/font/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:44:29] "GET /get_word_fields HTTP/1.0" 200 -
+172.22.0.1 - - [26/Feb/2023 14:44:33] "GET /get_gloss_selector/ket HTTP/1.0" 200 -
+172.22.0.1 - - [26/Feb/2023 14:44:33] "[36mGET /static/js/select_gloss.js HTTP/1.0[0m" 304 -
+/tsakorpus/search/search_engine/client.py:102: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.sentences',
+/tsakorpus/search/search_engine/client.py:102: ElasticsearchWarning: As of version 7.0 Elasticsearch will require that a [field] parameter is provided when a [seed] is set
+  hits = self.es.search(index=self.name + '.sentences',
+/tsakorpus/search/search_engine/client.py:102: ElasticsearchWarning: Loading the fielddata on the _id field is deprecated and will be removed in future versions. If you require sorting or aggregating on this field you should also include the id in the body of your documents, and map this field as a keyword field that has [doc_values] enabled
+  hits = self.es.search(index=self.name + '.sentences',
+/tsakorpus/search/search_engine/client.py:137: ElasticsearchWarning: Elasticsearch built-in security features are not enabled. Without authentication, your cluster could be accessible to anyone. See https://www.elastic.co/guide/en/elasticsearch/reference/7.17/security-minimal-setup.html to enable security.
+  hits = self.es.search(index=self.name + '.docs',
+172.22.0.1 - - [26/Feb/2023 14:44:51] "GET /search_sent?n_words=1&random_seed=774854&wf1=&lex1=&gr1=&w_id1=&l_id1=&gloss_index1=ABL&n_ana1=any&sentence_index1=&lang1=ket&txt=&precise=on&page_size=10&sort=random&distance_strict=on&translit=original HTTP/1.0" 200 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "GET /search HTTP/1.0" 200 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/bootstrap-5.0.0-beta1-dist/css/bootstrap.min.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/css/search.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/css/span_styles.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/css/gramm_gloss_selection.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/icons-1.4.1/font/bootstrap-icons.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/jquery-3.5.1-dist/jquery-3.5.1.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/autocomplete_devbridge/jquery.autocomplete.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/bootstrap-5.0.0-beta1-dist/js/bootstrap.bundle.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/js/common_interface_functions.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/js/virtual_keyboards.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/js/result_parser.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/js/json_loaders.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/js/query_share_load.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/kioskboard-1.4.0/kioskboard-1.4.0.min.css HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/kioskboard-1.4.0/kioskboard-1.4.0.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/d3/d3.min.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/js/word_stats.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/js/select_subcorpus.js HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/img/search_in_progress.gif HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "[36mGET /static/icons-1.4.1/font/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.0[0m" 304 -
+172.22.0.1 - - [26/Feb/2023 14:48:17] "GET /get_word_fields HTTP/1.0" 200 -

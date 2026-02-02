@@ -1,0 +1,1878 @@
+{
+  "meta": {
+    "title": "(1) Уко̄н илымпө̄ӄi шитты чопаӄi.",
+    "filename": "corpus\\txt\\Почему нельзя ночевать в лабазах.txt"
+  },
+  "sentences": [
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Уко̄н",
+          "ana": [
+            {
+              "parts": "ukōn",
+              "gloss": "раньше",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "раньше",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 5,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "илымпө̄ӄi",
+          "ana": [
+            {
+              "parts": "iľɨ-mp-ɔ:qɪ",
+              "gloss": "жить-PSTN-3DU",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "жить-PSTN-3DU",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 15,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "шитты",
+          "ana": [
+            {
+              "parts": "ʃʲittɨ",
+              "gloss": "два",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "два",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "чопаӄi.",
+          "ana": [
+            {
+              "parts": "ʧʲopā-qɪ",
+              "gloss": "брат-DU",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "брат-DU",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 22,
+          "off_end": 29,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Уко̄н илымпө̄ӄi шитты чопаӄi.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 29,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘В",
+          "wtype": "word",
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 3,
+          "wf": "давние",
+          "wtype": "word",
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 10,
+          "wf": "времена",
+          "wtype": "word",
+          "off_end": 17,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 18,
+          "wf": "(раньше)",
+          "wtype": "word",
+          "off_end": 26,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 27,
+          "wf": "жили",
+          "wtype": "word",
+          "off_end": 31,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 32,
+          "wf": "два",
+          "wtype": "word",
+          "off_end": 35,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 36,
+          "wf": "брата’.",
+          "wtype": "word",
+          "off_end": 43,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘В давние времена (раньше) жили два брата’.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 43,
+          "para_id": 1
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Сӯрыйя",
+          "ana": [
+            {
+              "parts": "su:rɨ-j-ja",
+              "gloss": "зверь-VBLZ-CVB",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "зверь-VBLZ-CVB",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄәнпө̄ӄi.",
+          "ana": [
+            {
+              "parts": "qən-p-ɔ:qɪ",
+              "gloss": "пойти-PSTN-3DU",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "пойти-PSTN-3DU",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 8,
+          "off_end": 17,
+          "sentence_index": 1,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Сӯрыйя ӄәнпө̄ӄi.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 17,
+          "para_id": 2
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Охотиться",
+          "wtype": "word",
+          "off_end": 10,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 11,
+          "wf": "пошли",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 17,
+          "wf": "(они",
+          "wtype": "word",
+          "off_end": 21,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 22,
+          "wf": "двое)’.",
+          "wtype": "word",
+          "off_end": 29,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Охотиться пошли (они двое)’.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 29,
+          "para_id": 2
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Ныны",
+          "ana": [
+            {
+              "parts": "nɨnɨ",
+              "gloss": "потом",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "потом",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 4,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "уккыр",
+          "ana": [
+            {
+              "parts": "ukkur",
+              "gloss": "один",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "один",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 5,
+          "off_end": 10,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "тīна",
+          "ana": [
+            {
+              "parts": "tɪna",
+              "gloss": "этот",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "этот",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 11,
+          "off_end": 15,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "мәрӄы,",
+          "ana": [
+            {
+              "parts": "mərqɨ",
+              "gloss": "большой",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "большой",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "мәрӄы",
+          "ana": [
+            {
+              "parts": "mərqɨ",
+              "gloss": "большой",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "большой",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 23,
+          "off_end": 28,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "чопа",
+          "ana": [
+            {
+              "parts": "ʧʲopa",
+              "gloss": "брат",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "брат",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 29,
+          "off_end": 33,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "томныт",
+          "ana": [
+            {
+              "parts": "tom-n-ɨtɨ",
+              "gloss": "сказать-EP-3SG.OBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "сказать-EP-3SG.OBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 34,
+          "off_end": 40,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Ныны уккыр тīна мәрӄы, мәрӄы чопа томныт",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 40,
+          "para_id": 5
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Потом",
+          "wtype": "word",
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 7,
+          "wf": "один",
+          "wtype": "word",
+          "off_end": 11,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 12,
+          "wf": "этот",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 17,
+          "wf": "старший,",
+          "wtype": "word",
+          "off_end": 25,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 26,
+          "wf": "старший",
+          "wtype": "word",
+          "off_end": 33,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 34,
+          "wf": "брат",
+          "wtype": "word",
+          "off_end": 38,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 39,
+          "wf": "говорит’",
+          "wtype": "word",
+          "off_end": 47,
+          "sentence_index": 6,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Потом один этот старший, старший брат говорит’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 47,
+          "para_id": 5
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Мәрӄы",
+          "ana": [
+            {
+              "parts": "mərqɨ",
+              "gloss": "большой",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "большой",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 5,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "чопа",
+          "ana": [
+            {
+              "parts": "ʧʲopa",
+              "gloss": "брат",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "брат",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 6,
+          "off_end": 10,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "томныты:",
+          "ana": [
+            {
+              "parts": "tom-n-ɨt",
+              "gloss": "сказать-EP-3SG.OBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "сказать-EP-3SG.OBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 11,
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "«Ыкы",
+          "ana": [
+            {
+              "parts": "ɨkɨ",
+              "gloss": "NEG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 24,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄәнäш!»",
+          "ana": [
+            {
+              "parts": "qən-æś",
+              "gloss": "пойти-IMP.2SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "пойти-IMP.2SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 25,
+          "off_end": 32,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Мәрӄы чопа томныты: «Ыкы ӄәнäш!»",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 32,
+          "para_id": 8
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Старший",
+          "wtype": "word",
+          "off_end": 8,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 9,
+          "wf": "брат",
+          "wtype": "word",
+          "off_end": 13,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 14,
+          "wf": "говорит:",
+          "wtype": "word",
+          "off_end": 22,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 23,
+          "wf": "«Не",
+          "wtype": "word",
+          "off_end": 26,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 27,
+          "wf": "ходи!’",
+          "wtype": "word",
+          "off_end": 33,
+          "sentence_index": 4,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Старший брат говорит: «Не ходи!’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 33,
+          "para_id": 8
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "А",
+          "ana": [
+            {
+              "parts": "a",
+              "gloss": "а",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "а",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 1,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "кыпа",
+          "ana": [
+            {
+              "parts": "kɨpa",
+              "gloss": "маленький",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "маленький",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 2,
+          "off_end": 6,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "чопа,",
+          "ana": [
+            {
+              "parts": "ʧʲopa",
+              "gloss": "брат",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "брат",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 12,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "это,",
+          "ana": [
+            {
+              "parts": "это",
+              "gloss": "это",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "это",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 17,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "чǟңка",
+          "ana": [
+            {
+              "parts": "ʧʲæ:ŋG-a",
+              "gloss": "NEG-3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "NEG-3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 18,
+          "off_end": 24,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "ÿңылтыптäты.",
+          "ana": [
+            {
+              "parts": "yŋGɨl-Dɨ-ptæ-tɨ",
+              "gloss": "слушать-TR-NMLZ-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "слушать-TR-NMLZ-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 25,
+          "off_end": 37,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "А кыпа чопа, это, чǟңка ÿңылтыптäты.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 37,
+          "para_id": 10
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘А",
+          "wtype": "word",
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 3,
+          "wf": "младший",
+          "wtype": "word",
+          "off_end": 10,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 11,
+          "wf": "брат,",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 17,
+          "wf": "это,",
+          "wtype": "word",
+          "off_end": 21,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 22,
+          "wf": "не",
+          "wtype": "word",
+          "off_end": 24,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 25,
+          "wf": "послушался’.",
+          "wtype": "word",
+          "off_end": 37,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘А младший брат, это, не послушался’.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 37,
+          "para_id": 10
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "«Кыпа̄!",
+          "ana": [
+            {
+              "parts": "kɨpa:",
+              "gloss": "маленький.VOC",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "маленький.VOC",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 7,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "iннä",
+          "ana": [
+            {
+              "parts": "ɪnnæ",
+              "gloss": "вверх",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "вверх",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 8,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "шиттийшык!»",
+          "ana": [
+            {
+              "parts": "śitt-ɪ:j-śɨk",
+              "gloss": "проснуться-PFV.INT.DETR-IMP.2SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "проснуться-PFV.INT.DETR-IMP.2SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 24,
+          "sentence_index": 2,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "«Кыпа̄! iннä шиттийшык!»",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 24,
+          "para_id": 13
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘«Младший!",
+          "wtype": "word",
+          "off_end": 10,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 11,
+          "wf": "просыпайся!»’",
+          "wtype": "word",
+          "off_end": 24,
+          "sentence_index": 1,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘«Младший! просыпайся!»’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 24,
+          "para_id": 13
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Тәп",
+          "ana": [
+            {
+              "parts": "təp",
+              "gloss": "3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 3,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "томныт:",
+          "ana": [
+            {
+              "parts": "tom-n-ɨt:",
+              "gloss": "сказать-EP-3SG.OBJ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "сказать-EP-3SG.OBJ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 4,
+          "off_end": 11,
+          "sentence_index": 1,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Тәп томныт:",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 11,
+          "para_id": 14
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Он",
+          "wtype": "word",
+          "off_end": 3,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 4,
+          "wf": "сказал:’",
+          "wtype": "word",
+          "off_end": 12,
+          "sentence_index": 1,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Он сказал:’",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 12,
+          "para_id": 14
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Корыт,",
+          "ana": [
+            {
+              "parts": "korɨ-t",
+              "gloss": "PH",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "PH",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 19
+        },
+        {
+          "wtype": "word",
+          "wf": "корыт",
+          "ana": [
+            {
+              "parts": "korɨ-t",
+              "gloss": "оттуда",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "оттуда",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 18
+        },
+        {
+          "wtype": "word",
+          "wf": "кушшат",
+          "ana": [
+            {
+              "parts": "kussat",
+              "gloss": "PH",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "PH",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 19,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 17
+        },
+        {
+          "wtype": "word",
+          "wf": "тÿ",
+          "ana": [
+            {
+              "parts": "ty",
+              "gloss": "PH",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "PH",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 20,
+          "off_end": 22,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 16
+        },
+        {
+          "wtype": "word",
+          "wf": "амптäты",
+          "ana": [
+            {
+              "parts": "am-ptæ-tɨ",
+              "gloss": "оттуда",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "оттуда",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 23,
+          "off_end": 30,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 15
+        },
+        {
+          "wtype": "word",
+          "wf": "нымты",
+          "ana": [
+            {
+              "parts": "nɨmDɨ",
+              "gloss": "всякий",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "всякий",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 31,
+          "off_end": 36,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 14
+        },
+        {
+          "wtype": "word",
+          "wf": "это,",
+          "ana": [
+            {
+              "parts": "лабаз-GEN",
+              "gloss": "человек-PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "человек-PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 37,
+          "off_end": 41,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 13
+        },
+        {
+          "wtype": "word",
+          "wf": "нымты",
+          "ana": [
+            {
+              "parts": "лабаз-GEN",
+              "gloss": "голос-PL-POSS.3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "голос-PL-POSS.3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 42,
+          "off_end": 47,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 12
+        },
+        {
+          "wtype": "word",
+          "wf": "это",
+          "ana": [
+            {
+              "parts": "когда",
+              "gloss": "ʧʲu:r-ɔ:tɨt",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "ʧʲu:r-ɔ:tɨt",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 48,
+          "off_end": 51,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 11
+        },
+        {
+          "wtype": "word",
+          "wf": "мы,",
+          "ana": [
+            {
+              "parts": "огонь",
+              "gloss": "laŋGɨ-ń-ń-ɔ:tɨt",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "laŋGɨ-ń-ń-ɔ:tɨt",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 52,
+          "off_end": 55,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 10
+        },
+        {
+          "wtype": "word",
+          "wf": "нымты",
+          "ana": [
+            {
+              "parts": "съесть-NMLZ-POSS.3SG",
+              "gloss": "kutɨ-n",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "kutɨ-n",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 56,
+          "off_end": 61,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 9
+        },
+        {
+          "wtype": "word",
+          "wf": "иста",
+          "ana": [
+            {
+              "parts": "оттуда",
+              "gloss": "ińa-ja-n",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "ińa-ja-n",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 62,
+          "off_end": 66,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 8
+        },
+        {
+          "wtype": "word",
+          "wf": "ӄумыт",
+          "ana": [
+            {
+              "parts": "это",
+              "gloss": "плакать-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "плакать-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 67,
+          "off_end": 72,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 7
+        },
+        {
+          "wtype": "word",
+          "wf": "чарыӣтыт",
+          "ana": [
+            {
+              "parts": "nɨmDɨ",
+              "gloss": "кричать-VBLZ-EP-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "кричать-VBLZ-EP-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 73,
+          "off_end": 82,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 6
+        },
+        {
+          "wtype": "word",
+          "wf": "чӯрө̄тыт,",
+          "ana": [
+            {
+              "parts": "это",
+              "gloss": "кто-GEN",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "кто-GEN",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 83,
+          "off_end": 93,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 5
+        },
+        {
+          "wtype": "word",
+          "wf": "лаңкыньньө̄тыт",
+          "ana": [
+            {
+              "parts": "mɨ",
+              "gloss": "ребенок-DIM-PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "ребенок-DIM-PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 94,
+          "off_end": 108,
+          "next_word": 16,
+          "sentence_index": 15,
+          "sentence_index_neg": 4
+        },
+        {
+          "wtype": "word",
+          "wf": "кутын,",
+          "ana": [
+            {
+              "parts": "nɨmDɨ",
+              "gloss": "ʧʲu:r-ɔ:tɨt",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "ʧʲu:r-ɔ:tɨt",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 109,
+          "off_end": 115,
+          "next_word": 17,
+          "sentence_index": 16,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "иняян",
+          "ana": [
+            {
+              "parts": "ista",
+              "gloss": "kor-qɨn-tɨ",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "kor-qɨn-tɨ",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 116,
+          "off_end": 121,
+          "next_word": 18,
+          "sentence_index": 17,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "чӯрө̄тыт",
+          "ana": [
+            {
+              "parts": "qumɨ-t",
+              "gloss": "плакать-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "плакать-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 122,
+          "off_end": 131,
+          "next_word": 19,
+          "sentence_index": 18,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "корӄынты.",
+          "ana": [
+            {
+              "parts": "ʧʲarɨ-i:-tɨt",
+              "gloss": "лабаз-LOC-POSS.3SG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "лабаз-LOC-POSS.3SG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 132,
+          "off_end": 141,
+          "sentence_index": 19,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Корыт, корыт кушшат тÿ амптäты нымты это, нымты это мы, нымты иста ӄумыт чарыӣтыт чӯрө̄тыт, лаңкыньньө̄тыт кутын, иняян чӯрө̄тыт корӄынты.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 141,
+          "para_id": 18
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘Во",
+          "wtype": "word",
+          "off_end": 3,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 20
+        },
+        {
+          "off_start": 4,
+          "wf": "время",
+          "wtype": "word",
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 19
+        },
+        {
+          "off_start": 10,
+          "wf": "горения",
+          "wtype": "word",
+          "off_end": 17,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 18
+        },
+        {
+          "off_start": 18,
+          "wf": "амбара,",
+          "wtype": "word",
+          "off_end": 25,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 17
+        },
+        {
+          "off_start": 26,
+          "wf": "амбара,",
+          "wtype": "word",
+          "off_end": 33,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 16
+        },
+        {
+          "off_start": 34,
+          "wf": "оттуда",
+          "wtype": "word",
+          "off_end": 40,
+          "next_word": 6,
+          "sentence_index": 5,
+          "sentence_index_neg": 15
+        },
+        {
+          "off_start": 41,
+          "wf": "это,",
+          "wtype": "word",
+          "off_end": 45,
+          "next_word": 7,
+          "sentence_index": 6,
+          "sentence_index_neg": 14
+        },
+        {
+          "off_start": 46,
+          "wf": "оттуда",
+          "wtype": "word",
+          "off_end": 52,
+          "next_word": 8,
+          "sentence_index": 7,
+          "sentence_index_neg": 13
+        },
+        {
+          "off_start": 53,
+          "wf": "это,",
+          "wtype": "word",
+          "off_end": 57,
+          "next_word": 9,
+          "sentence_index": 8,
+          "sentence_index_neg": 12
+        },
+        {
+          "off_start": 58,
+          "wf": "это,",
+          "wtype": "word",
+          "off_end": 62,
+          "next_word": 10,
+          "sentence_index": 9,
+          "sentence_index_neg": 11
+        },
+        {
+          "off_start": 63,
+          "wf": "всякие",
+          "wtype": "word",
+          "off_end": 69,
+          "next_word": 11,
+          "sentence_index": 10,
+          "sentence_index_neg": 10
+        },
+        {
+          "off_start": 70,
+          "wf": "человеческие",
+          "wtype": "word",
+          "off_end": 82,
+          "next_word": 12,
+          "sentence_index": 11,
+          "sentence_index_neg": 9
+        },
+        {
+          "off_start": 83,
+          "wf": "голоса",
+          "wtype": "word",
+          "off_end": 89,
+          "next_word": 13,
+          "sentence_index": 12,
+          "sentence_index_neg": 8
+        },
+        {
+          "off_start": 90,
+          "wf": "плачут,",
+          "wtype": "word",
+          "off_end": 97,
+          "next_word": 14,
+          "sentence_index": 13,
+          "sentence_index_neg": 7
+        },
+        {
+          "off_start": 98,
+          "wf": "кричат,",
+          "wtype": "word",
+          "off_end": 105,
+          "next_word": 15,
+          "sentence_index": 14,
+          "sentence_index_neg": 6
+        },
+        {
+          "off_start": 106,
+          "wf": "чьи(-то)",
+          "wtype": "word",
+          "off_end": 114,
+          "next_word": 16,
+          "sentence_index": 15,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 115,
+          "wf": "детки",
+          "wtype": "word",
+          "off_end": 120,
+          "next_word": 17,
+          "sentence_index": 16,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 121,
+          "wf": "плачут",
+          "wtype": "word",
+          "off_end": 127,
+          "next_word": 18,
+          "sentence_index": 17,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 128,
+          "wf": "из",
+          "wtype": "word",
+          "off_end": 130,
+          "next_word": 19,
+          "sentence_index": 18,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 131,
+          "wf": "лабаза",
+          "wtype": "word",
+          "off_end": 137,
+          "next_word": 20,
+          "sentence_index": 19,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 138,
+          "wf": "этого’.",
+          "wtype": "word",
+          "off_end": 145,
+          "sentence_index": 20,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘Во время горения амбара, амбара, оттуда это, оттуда это, это, всякие человеческие голоса плачут, кричат, чьи(-то) детки плачут из лабаза этого’.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 145,
+          "para_id": 18
+        }
+      ]
+    },
+    {
+      "lang": 0,
+      "words": [
+        {
+          "wtype": "word",
+          "wf": "Корӄын",
+          "ana": [
+            {
+              "parts": "kor-qɨn",
+              "gloss": "лабаз-LOC",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "лабаз-LOC",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 0,
+          "off_end": 6,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 3
+        },
+        {
+          "wtype": "word",
+          "wf": "нө̄ты",
+          "ana": [
+            {
+              "parts": "nɔ:tɨ",
+              "gloss": "впредь",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "впредь",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 7,
+          "off_end": 12,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 2
+        },
+        {
+          "wtype": "word",
+          "wf": "аш",
+          "ana": [
+            {
+              "parts": "aʃʲ",
+              "gloss": "NEG",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "NEG",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 13,
+          "off_end": 15,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 1
+        },
+        {
+          "wtype": "word",
+          "wf": "шäӄӄө̄тын.",
+          "ana": [
+            {
+              "parts": "ʃʲæqq-ɔ:tɨn",
+              "gloss": "ночевать-3PL",
+              "gloss_index": "",
+              "lex": "",
+              "trans_ru": "",
+              "gloss_ru": "ночевать-3PL",
+              "gloss_index_ru": "",
+              "gr.pos": "<Not Sure>"
+            }
+          ],
+          "off_start": 16,
+          "off_end": 26,
+          "sentence_index": 3,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "Корӄын нө̄ты аш шäӄӄө̄тын.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 26,
+          "para_id": 19
+        }
+      ]
+    },
+    {
+      "lang": 1,
+      "words": [
+        {
+          "off_start": 0,
+          "wf": "‘В",
+          "wtype": "word",
+          "off_end": 2,
+          "next_word": 1,
+          "sentence_index": 0,
+          "sentence_index_neg": 5
+        },
+        {
+          "off_start": 3,
+          "wf": "лабазе",
+          "wtype": "word",
+          "off_end": 9,
+          "next_word": 2,
+          "sentence_index": 1,
+          "sentence_index_neg": 4
+        },
+        {
+          "off_start": 10,
+          "wf": "больше",
+          "wtype": "word",
+          "off_end": 16,
+          "next_word": 3,
+          "sentence_index": 2,
+          "sentence_index_neg": 3
+        },
+        {
+          "off_start": 17,
+          "wf": "(впредь)",
+          "wtype": "word",
+          "off_end": 25,
+          "next_word": 4,
+          "sentence_index": 3,
+          "sentence_index_neg": 2
+        },
+        {
+          "off_start": 26,
+          "wf": "не",
+          "wtype": "word",
+          "off_end": 28,
+          "next_word": 5,
+          "sentence_index": 4,
+          "sentence_index_neg": 1
+        },
+        {
+          "off_start": 29,
+          "wf": "ночуют’.",
+          "wtype": "word",
+          "off_end": 37,
+          "sentence_index": 5,
+          "sentence_index_neg": 0
+        }
+      ],
+      "text": "‘В лабазе больше (впредь) не ночуют’.",
+      "para_alignment": [
+        {
+          "off_start": 0,
+          "off_end": 37,
+          "para_id": 19
+        }
+      ],
+      "last": true
+    }
+  ]
+}

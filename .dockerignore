@@ -1,0 +1,9 @@
+.git
+__pycache__
+*.py[cod]
+.venv
+venv
+*.log
+docs
+docs_dev
+search/corpus_html

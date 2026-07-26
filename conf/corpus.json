@@ -65,60 +65,87 @@
         "gloss_selection": {
           "columns": [
             [
-              {"type": "header", "value": "Other"},
+              {"type": "header", "value": "Agreement", "tooltip": "Agreement"},
               {"type": "gloss", "value": "1", "tooltip": "первое лицо"},
               {"type": "gloss", "value": "2", "tooltip": "второе лицо"},
               {"type": "gloss", "value": "3", "tooltip": "третье лицо"},
+              {"type": "gloss", "value": "OBJ", "tooltip": "объектный тип спряжения"},
+              {"type": "gloss", "value": "SBJ", "tooltip": "субъектный тип спряжения"},
+              {"type": "gloss", "value": "PLOBJ", "tooltip": "показатель многообъектного глагола"},
+              {"type": "gloss", "value": "PLSBJ", "tooltip": "показатель многосубъектного глагола"}
+            ],
+            [
+              {"type": "header", "value": "Number", "tooltip": "Number"},
+              {"type": "gloss", "value": "SG", "tooltip": "единственное число"},
+              {"type": "gloss", "value": "PL", "tooltip": "множественное число"},
+              {"type": "gloss", "value": "COLL", "tooltip": "коллективная множественность"}
+            ],
+            [
+              {"type": "header", "value": "Cases", "tooltip": "Cases"},
               {"type": "gloss", "value": "ACC", "tooltip": "аккузатив"},
-              {"type": "gloss", "value": "ADJ", "tooltip": "адъективатор"},
-              {"type": "gloss", "value": "ADVZ", "tooltip": "адвербиализатор"},
-              {"type": "gloss", "value": "ATTEN", "tooltip": "аттенуатив"},
-              {"type": "gloss", "value": "CAUS", "tooltip": "каузатив"},
-              {"type": "gloss", "value": "COLL", "tooltip": "коллективная множественность"},
-              {"type": "gloss", "value": "COORD", "tooltip": "координатив"},
-              {"type": "gloss", "value": "CVB", "tooltip": "деепричастие"},
               {"type": "gloss", "value": "DAT", "tooltip": "датив"},
-              {"type": "gloss", "value": "DETR", "tooltip": "детранзитив"},
-              {"type": "gloss", "value": "DIM", "tooltip": "диминутив"},
-              {"type": "gloss", "value": "DUR", "tooltip": "дуратив"},
               {"type": "gloss", "value": "ELA", "tooltip": "элатив"},
-              {"type": "gloss", "value": "EP", "tooltip": "эпентеза"},
-              {"type": "gloss", "value": "EVID", "tooltip": "непрямая эвиденциальность"},
-              {"type": "gloss", "value": "FOC", "tooltip": "фокусная частица"},
-              {"type": "gloss", "value": "FUT", "tooltip": "будущее время"},
               {"type": "gloss", "value": "GEN", "tooltip": "генетив"},
-              {"type": "gloss", "value": "HAB", "tooltip": "хабитуалис"},
               {"type": "gloss", "value": "ILL", "tooltip": "иллатив"},
-              {"type": "gloss", "value": "INCH", "tooltip": "инхоатив"},
-              {"type": "gloss", "value": "INF", "tooltip": "инфинитив"},
               {"type": "gloss", "value": "INS", "tooltip": "инструменталис"},
               {"type": "gloss", "value": "INSTR", "tooltip": "инструменталис"},
-              {"type": "gloss", "value": "INT", "tooltip": "интенсификатор"},
-              {"type": "gloss", "value": "IPFV", "tooltip": "имперфектив"},
               {"type": "gloss", "value": "LOC", "tooltip": "локатив"},
-              {"type": "gloss", "value": "MEL", "tooltip": "элемент распева"},
-              {"type": "gloss", "value": "NEG", "tooltip": "отрицание"},
-              {"type": "gloss", "value": "NEG.EX", "tooltip": "экзистенциальное отрицание"},
-              {"type": "gloss", "value": "NMLZ", "tooltip": "номинализатор"},
-              {"type": "gloss", "value": "OBJ", "tooltip": "объектный тип спряжения"},
-              {"type": "gloss", "value": "PEJ", "tooltip": "пейоратив"},
+              {"type": "gloss", "value": "PROL", "tooltip": "полатив"},
+              {"type": "gloss", "value": "TRANSL", "tooltip": "транслатив"}
+            ],
+            [
+              {"type": "header", "value": "Aspect", "tooltip": "Aspect"},
+              {"type": "gloss", "value": "ATTEN", "tooltip": "аттенуатив"},
+              {"type": "gloss", "value": "DUR", "tooltip": "дуратив"},
+              {"type": "gloss", "value": "HAB", "tooltip": "хабитуалис"},
+              {"type": "gloss", "value": "IPFV", "tooltip": "имперфектив"},
               {"type": "gloss", "value": "PFV", "tooltip": "перфектив"},
               {"type": "gloss", "value": "PFV.INT", "tooltip": "интенсивный перфектив"},
-              {"type": "gloss", "value": "PFV.REV", "tooltip": "реверсивный перфектив"},
-              {"type": "gloss", "value": "PL", "tooltip": "множественное число"},
-              {"type": "gloss", "value": "PLOBJ", "tooltip": "показатель многообъектного глагола"},
-              {"type": "gloss", "value": "PLSBJ", "tooltip": "показатель многосубъектного глагола"},
-              {"type": "gloss", "value": "POSS", "tooltip": "посессив"},
-              {"type": "gloss", "value": "PROL", "tooltip": "полатив"},
-              {"type": "gloss", "value": "PRT.PST", "tooltip": "причастие прошедшего времени"},
+              {"type": "gloss", "value": "PFV.REV", "tooltip": "реверсивный перфектив"}
+            ],
+            [
+              {"type": "header", "value": "Tense/Mood", "tooltip": "Tense/Mood"},
+              {"type": "gloss", "value": "EVID", "tooltip": "непрямая эвиденциальность"},
+              {"type": "gloss", "value": "FUT", "tooltip": "будущее время"},
               {"type": "gloss", "value": "PST", "tooltip": "прошедшее время"},
-              {"type": "gloss", "value": "PSTN", "tooltip": "прошедшее повествовательное время"},
-              {"type": "gloss", "value": "RFL", "tooltip": "рефлексив"},
-              {"type": "gloss", "value": "SBJ", "tooltip": "субъектный тип спряжения"},
-              {"type": "gloss", "value": "SG", "tooltip": "единственное число"},
-              {"type": "gloss", "value": "TR", "tooltip": "транзитиватор"},
-              {"type": "gloss", "value": "TRANSL", "tooltip": "транслатив"},
+              {"type": "gloss", "value": "PSTN", "tooltip": "прошедшее повествовательное время"}
+            ],
+            [
+              {"type": "header", "value": "Non-finite", "tooltip": "Non-finite"},
+              {"type": "gloss", "value": "CVB", "tooltip": "деепричастие"},
+              {"type": "gloss", "value": "INF", "tooltip": "инфинитив"},
+              {"type": "gloss", "value": "PRT.PST", "tooltip": "причастие прошедшего времени"}
+            ],
+            [
+              {"type": "header", "value": "Valency derivation", "tooltip": "Valency derivation"},
+              {"type": "gloss", "value": "CAUS", "tooltip": "каузатив"},
+              {"type": "gloss", "value": "DETR", "tooltip": "детранзитив"},
+              {"type": "gloss", "value": "TR", "tooltip": "транзитиватор"}
+            ],
+            [
+              {"type": "header", "value": "Nominal derivation", "tooltip": "Nominal derivation"},
+              {"type": "gloss", "value": "ADJ", "tooltip": "адъективатор"},
+              {"type": "gloss", "value": "ADVZ", "tooltip": "адвербиализатор"},
+              {"type": "gloss", "value": "DIM", "tooltip": "диминутив"},
+              {"type": "gloss", "value": "INCH", "tooltip": "инхоатив"},
+              {"type": "gloss", "value": "NMLZ", "tooltip": "номинализатор"},
+              {"type": "gloss", "value": "PEJ", "tooltip": "пейоратив"},
               {"type": "gloss", "value": "VBLZ", "tooltip": "вербализатор"}
+            ],
+            [
+              {"type": "header", "value": "Particles", "tooltip": "Particles"},
+              {"type": "gloss", "value": "COORD", "tooltip": "координатив"},
+              {"type": "gloss", "value": "FOC", "tooltip": "фокусная частица"},
+              {"type": "gloss", "value": "INT", "tooltip": "интенсификатор"},
+              {"type": "gloss", "value": "NEG", "tooltip": "отрицание"},
+              {"type": "gloss", "value": "NEG.EX", "tooltip": "экзистенциальное отрицание"},
+              {"type": "gloss", "value": "RFL", "tooltip": "рефлексив"},
+              {"type": "gloss", "value": "POSS", "tooltip": "посессив"}
+            ],
+            [
+              {"type": "header", "value": "Other tags", "tooltip": "Other tags"},
+              {"type": "gloss", "value": "EP", "tooltip": "эпентеза"},
+              {"type": "gloss", "value": "MEL", "tooltip": "элемент распева"}
             ]
           ]
         },
@@ -126,60 +153,87 @@
         "gramm_selection": {
           "columns": [
             [
-              {"type": "header", "value": "Other"},
+              {"type": "header", "value": "Agreement", "tooltip": "Agreement"},
               {"type": "gramm", "value": "1", "tooltip": "первое лицо"},
               {"type": "gramm", "value": "2", "tooltip": "второе лицо"},
               {"type": "gramm", "value": "3", "tooltip": "третье лицо"},
+              {"type": "gramm", "value": "OBJ", "tooltip": "объектный тип спряжения"},
+              {"type": "gramm", "value": "SBJ", "tooltip": "субъектный тип спряжения"},
+              {"type": "gramm", "value": "PLOBJ", "tooltip": "показатель многообъектного глагола"},
+              {"type": "gramm", "value": "PLSBJ", "tooltip": "показатель многосубъектного глагола"}
+            ],
+            [
+              {"type": "header", "value": "Number", "tooltip": "Number"},
+              {"type": "gramm", "value": "SG", "tooltip": "единственное число"},
+              {"type": "gramm", "value": "PL", "tooltip": "множественное число"},
+              {"type": "gramm", "value": "COLL", "tooltip": "коллективная множественность"}
+            ],
+            [
+              {"type": "header", "value": "Cases", "tooltip": "Cases"},
               {"type": "gramm", "value": "ACC", "tooltip": "аккузатив"},
-              {"type": "gramm", "value": "ADJ", "tooltip": "адъективатор"},
-              {"type": "gramm", "value": "ADVZ", "tooltip": "адвербиализатор"},
-              {"type": "gramm", "value": "ATTEN", "tooltip": "аттенуатив"},
-              {"type": "gramm", "value": "CAUS", "tooltip": "каузатив"},
-              {"type": "gramm", "value": "COLL", "tooltip": "коллективная множественность"},
-              {"type": "gramm", "value": "COORD", "tooltip": "координатив"},
-              {"type": "gramm", "value": "CVB", "tooltip": "деепричастие"},
               {"type": "gramm", "value": "DAT", "tooltip": "датив"},
-              {"type": "gramm", "value": "DETR", "tooltip": "детранзитив"},
-              {"type": "gramm", "value": "DIM", "tooltip": "диминутив"},
-              {"type": "gramm", "value": "DUR", "tooltip": "дуратив"},
               {"type": "gramm", "value": "ELA", "tooltip": "элатив"},
-              {"type": "gramm", "value": "EP", "tooltip": "эпентеза"},
-              {"type": "gramm", "value": "EVID", "tooltip": "непрямая эвиденциальность"},
-              {"type": "gramm", "value": "FOC", "tooltip": "фокусная частица"},
-              {"type": "gramm", "value": "FUT", "tooltip": "будущее время"},
               {"type": "gramm", "value": "GEN", "tooltip": "генетив"},
-              {"type": "gramm", "value": "HAB", "tooltip": "хабитуалис"},
               {"type": "gramm", "value": "ILL", "tooltip": "иллатив"},
-              {"type": "gramm", "value": "INCH", "tooltip": "инхоатив"},
-              {"type": "gramm", "value": "INF", "tooltip": "инфинитив"},
               {"type": "gramm", "value": "INS", "tooltip": "инструменталис"},
               {"type": "gramm", "value": "INSTR", "tooltip": "инструменталис"},
-              {"type": "gramm", "value": "INT", "tooltip": "интенсификатор"},
-              {"type": "gramm", "value": "IPFV", "tooltip": "имперфектив"},
               {"type": "gramm", "value": "LOC", "tooltip": "локатив"},
-              {"type": "gramm", "value": "MEL", "tooltip": "элемент распева"},
-              {"type": "gramm", "value": "NEG", "tooltip": "отрицание"},
-              {"type": "gramm", "value": "NEG.EX", "tooltip": "экзистенциальное отрицание"},
-              {"type": "gramm", "value": "NMLZ", "tooltip": "номинализатор"},
-              {"type": "gramm", "value": "OBJ", "tooltip": "объектный тип спряжения"},
-              {"type": "gramm", "value": "PEJ", "tooltip": "пейоратив"},
+              {"type": "gramm", "value": "PROL", "tooltip": "полатив"},
+              {"type": "gramm", "value": "TRANSL", "tooltip": "транслатив"}
+            ],
+            [
+              {"type": "header", "value": "Aspect", "tooltip": "Aspect"},
+              {"type": "gramm", "value": "ATTEN", "tooltip": "аттенуатив"},
+              {"type": "gramm", "value": "DUR", "tooltip": "дуратив"},
+              {"type": "gramm", "value": "HAB", "tooltip": "хабитуалис"},
+              {"type": "gramm", "value": "IPFV", "tooltip": "имперфектив"},
               {"type": "gramm", "value": "PFV", "tooltip": "перфектив"},
               {"type": "gramm", "value": "PFV.INT", "tooltip": "интенсивный перфектив"},
-              {"type": "gramm", "value": "PFV.REV", "tooltip": "реверсивный перфектив"},
-              {"type": "gramm", "value": "PL", "tooltip": "множественное число"},
-              {"type": "gramm", "value": "PLOBJ", "tooltip": "показатель многообъектного глагола"},
-              {"type": "gramm", "value": "PLSBJ", "tooltip": "показатель многосубъектного глагола"},
-              {"type": "gramm", "value": "POSS", "tooltip": "посессив"},
-              {"type": "gramm", "value": "PROL", "tooltip": "полатив"},
-              {"type": "gramm", "value": "PRT.PST", "tooltip": "причастие прошедшего времени"},
+              {"type": "gramm", "value": "PFV.REV", "tooltip": "реверсивный перфектив"}
+            ],
+            [
+              {"type": "header", "value": "Tense/Mood", "tooltip": "Tense/Mood"},
+              {"type": "gramm", "value": "EVID", "tooltip": "непрямая эвиденциальность"},
+              {"type": "gramm", "value": "FUT", "tooltip": "будущее время"},
               {"type": "gramm", "value": "PST", "tooltip": "прошедшее время"},
-              {"type": "gramm", "value": "PSTN", "tooltip": "прошедшее повествовательное время"},
-              {"type": "gramm", "value": "RFL", "tooltip": "рефлексив"},
-              {"type": "gramm", "value": "SBJ", "tooltip": "субъектный тип спряжения"},
-              {"type": "gramm", "value": "SG", "tooltip": "единственное число"},
-              {"type": "gramm", "value": "TR", "tooltip": "транзитиватор"},
-              {"type": "gramm", "value": "TRANSL", "tooltip": "транслатив"},
+              {"type": "gramm", "value": "PSTN", "tooltip": "прошедшее повествовательное время"}
+            ],
+            [
+              {"type": "header", "value": "Non-finite", "tooltip": "Non-finite"},
+              {"type": "gramm", "value": "CVB", "tooltip": "деепричастие"},
+              {"type": "gramm", "value": "INF", "tooltip": "инфинитив"},
+              {"type": "gramm", "value": "PRT.PST", "tooltip": "причастие прошедшего времени"}
+            ],
+            [
+              {"type": "header", "value": "Valency derivation", "tooltip": "Valency derivation"},
+              {"type": "gramm", "value": "CAUS", "tooltip": "каузатив"},
+              {"type": "gramm", "value": "DETR", "tooltip": "детранзитив"},
+              {"type": "gramm", "value": "TR", "tooltip": "транзитиватор"}
+            ],
+            [
+              {"type": "header", "value": "Nominal derivation", "tooltip": "Nominal derivation"},
+              {"type": "gramm", "value": "ADJ", "tooltip": "адъективатор"},
+              {"type": "gramm", "value": "ADVZ", "tooltip": "адвербиализатор"},
+              {"type": "gramm", "value": "DIM", "tooltip": "диминутив"},
+              {"type": "gramm", "value": "INCH", "tooltip": "инхоатив"},
+              {"type": "gramm", "value": "NMLZ", "tooltip": "номинализатор"},
+              {"type": "gramm", "value": "PEJ", "tooltip": "пейоратив"},
               {"type": "gramm", "value": "VBLZ", "tooltip": "вербализатор"}
+            ],
+            [
+              {"type": "header", "value": "Particles", "tooltip": "Particles"},
+              {"type": "gramm", "value": "COORD", "tooltip": "координатив"},
+              {"type": "gramm", "value": "FOC", "tooltip": "фокусная частица"},
+              {"type": "gramm", "value": "INT", "tooltip": "интенсификатор"},
+              {"type": "gramm", "value": "NEG", "tooltip": "отрицание"},
+              {"type": "gramm", "value": "NEG.EX", "tooltip": "экзистенциальное отрицание"},
+              {"type": "gramm", "value": "RFL", "tooltip": "рефлексив"},
+              {"type": "gramm", "value": "POSS", "tooltip": "посессив"}
+            ],
+            [
+              {"type": "header", "value": "Other tags", "tooltip": "Other tags"},
+              {"type": "gramm", "value": "EP", "tooltip": "эпентеза"},
+              {"type": "gramm", "value": "MEL", "tooltip": "элемент распева"}
             ]
           ]
         }

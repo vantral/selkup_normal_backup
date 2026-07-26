@@ -1,58 +1,67 @@
 ﻿language,kind,key,title_ru,title_en,description_ru,description_en
 selkup,language,selkup,Северноселькупский язык,Northern Selkup,,
-selkup,group,Other,Прочее,Other,,
+selkup,group,Agreement,Согласование,Agreement,,
 selkup,tag,1,первое лицо,first person,первое лицо.,The tag marks: first person.
 selkup,tag,2,второе лицо,second person,второе лицо.,The tag marks: second person.
 selkup,tag,3,третье лицо,third person,третье лицо.,The tag marks: third person.
-selkup,tag,ACC,аккузатив,accusative,аккузатив.,The tag marks: accusative.
-selkup,tag,ADJ,адъективатор,adjective,адъективатор.,The tag marks: adjective.
-selkup,tag,ADVZ,адвербиализатор,adverbializer,адвербиализатор.,The tag marks: adverbializer.
-selkup,tag,ATTEN,аттенуатив,attenuative,аттенуатив.,The tag marks: attenuative.
-selkup,tag,CAUS,каузатив,causative,каузатив.,The tag marks: causative.
+selkup,tag,OBJ,объектный тип спряжения,object agreement,объектный тип спряжения.,The tag marks: object agreement.
+selkup,tag,SBJ,субъектный тип спряжения,subject agreement,субъектный тип спряжения.,The tag marks: subject agreement.
+selkup,tag,PLOBJ,показатель многообъектного глагола,multiple-object marker,показатель многообъектного глагола.,The tag marks: multiple-object marker.
+selkup,tag,PLSBJ,показатель многосубъектного глагола,multiple-subject marker,показатель многосубъектного глагола.,The tag marks: multiple-subject marker.
+selkup,group,Number,Число,Number,,
+selkup,tag,SG,единственное число,singular,единственное число.,The tag marks: singular.
+selkup,tag,PL,множественное число,plural,множественное число.,The tag marks: plural.
 selkup,tag,COLL,коллективная множественность,collective,коллективная множественность.,The tag marks: collective.
-selkup,tag,COORD,координатив,coordinative,координатив.,The tag marks: coordinative.
-selkup,tag,CVB,деепричастие,converb,деепричастие.,The tag marks: converb.
+selkup,group,Cases,Падежи,Cases,,
+selkup,tag,ACC,аккузатив,accusative,аккузатив.,The tag marks: accusative.
 selkup,tag,DAT,датив,dative,датив.,The tag marks: dative.
-selkup,tag,DETR,детранзитив,detransitivizer,детранзитив.,The tag marks: detransitivizer.
-selkup,tag,DIM,диминутив,diminutive,диминутив.,The tag marks: diminutive.
-selkup,tag,DUR,дуратив,durative,дуратив.,The tag marks: durative.
 selkup,tag,ELA,элатив,elative,элатив.,The tag marks: elative.
-selkup,tag,EP,эпентеза,epenthesis,эпентеза.,The tag marks: epenthesis.
-selkup,tag,EVID,непрямая эвиденциальность,indirect evidential,непрямая эвиденциальность.,The tag marks: indirect evidential.
-selkup,tag,FOC,фокусная частица,focus particle,фокусная частица.,The tag marks: focus particle.
-selkup,tag,FUT,будущее время,future,будущее время.,The tag marks: future.
 selkup,tag,GEN,генетив,genitive,генетив.,The tag marks: genitive.
-selkup,tag,HAB,хабитуалис,habitual,хабитуалис.,The tag marks: habitual.
 selkup,tag,ILL,иллатив,illative,иллатив.,The tag marks: illative.
-selkup,tag,INCH,инхоатив,inchoative,инхоатив.,The tag marks: inchoative.
-selkup,tag,INF,инфинитив,infinitive,инфинитив.,The tag marks: infinitive.
 selkup,tag,INS,инструменталис,instrumental,инструменталис.,The tag marks: instrumental.
 selkup,tag,INSTR,инструменталис,instrumental,инструменталис.,The tag marks: instrumental.
-selkup,tag,INT,интенсификатор,intensive,интенсификатор.,The tag marks: intensive.
-selkup,tag,IPFV,имперфектив,imperfective,имперфектив.,The tag marks: imperfective.
 selkup,tag,LOC,локатив,locative,локатив.,The tag marks: locative.
-selkup,tag,MEL,элемент распева,melodic extension,элемент распева.,The tag marks: melodic extension.
-selkup,tag,NEG,отрицание,negation,отрицание.,The tag marks: negation.
-selkup,tag,NEG.EX,экзистенциальное отрицание,"negation, existential",экзистенциальное отрицание.,"The tag marks: negation, existential."
-selkup,tag,NMLZ,номинализатор,nominalization,номинализатор.,The tag marks: nominalization.
-selkup,tag,OBJ,объектный тип спряжения,object agreement,объектный тип спряжения.,The tag marks: object agreement.
-selkup,tag,PEJ,пейоратив,pejorative,пейоратив.,The tag marks: pejorative.
+selkup,tag,PROL,полатив,prolative,полатив.,The tag marks: prolative.
+selkup,tag,TRANSL,транслатив,translative,транслатив.,The tag marks: translative.
+selkup,group,Aspect,Вид,Aspect,,
+selkup,tag,ATTEN,аттенуатив,attenuative,аттенуатив.,The tag marks: attenuative.
+selkup,tag,DUR,дуратив,durative,дуратив.,The tag marks: durative.
+selkup,tag,HAB,хабитуалис,habitual,хабитуалис.,The tag marks: habitual.
+selkup,tag,IPFV,имперфектив,imperfective,имперфектив.,The tag marks: imperfective.
 selkup,tag,PFV,перфектив,perfective,перфектив.,The tag marks: perfective.
 selkup,tag,PFV.INT,интенсивный перфектив,"perfective, intensive",интенсивный перфектив.,"The tag marks: perfective, intensive."
 selkup,tag,PFV.REV,реверсивный перфектив,"perfective, reversive",реверсивный перфектив.,"The tag marks: perfective, reversive."
-selkup,tag,PL,множественное число,plural,множественное число.,The tag marks: plural.
-selkup,tag,PLOBJ,показатель многообъектного глагола,multiple-object marker,показатель многообъектного глагола.,The tag marks: multiple-object marker.
-selkup,tag,PLSBJ,показатель многосубъектного глагола,multiple-subject marker,показатель многосубъектного глагола.,The tag marks: multiple-subject marker.
-selkup,tag,POSS,посессив,possessive,посессив.,The tag marks: possessive.
-selkup,tag,PROL,полатив,prolative,полатив.,The tag marks: prolative.
-selkup,tag,PRT.PST,причастие прошедшего времени,"participle, past",причастие прошедшего времени.,"The tag marks: participle, past."
+selkup,group,Tense/Mood,Время и наклонение,Tense and mood,,
+selkup,tag,EVID,непрямая эвиденциальность,indirect evidential,непрямая эвиденциальность.,The tag marks: indirect evidential.
+selkup,tag,FUT,будущее время,future,будущее время.,The tag marks: future.
 selkup,tag,PST,прошедшее время,past,прошедшее время.,The tag marks: past.
 selkup,tag,PSTN,прошедшее повествовательное время,narrative past,прошедшее повествовательное время.,The tag marks: narrative past.
-selkup,tag,RFL,рефлексив,reflexive,рефлексив.,The tag marks: reflexive.
-selkup,tag,SBJ,субъектный тип спряжения,subject agreement,субъектный тип спряжения.,The tag marks: subject agreement.
-selkup,tag,SG,единственное число,singular,единственное число.,The tag marks: singular.
+selkup,group,Non-finite,Нефинитные формы,Non-finite forms,,
+selkup,tag,CVB,деепричастие,converb,деепричастие.,The tag marks: converb.
+selkup,tag,INF,инфинитив,infinitive,инфинитив.,The tag marks: infinitive.
+selkup,tag,PRT.PST,причастие прошедшего времени,"participle, past",причастие прошедшего времени.,"The tag marks: participle, past."
+selkup,group,Valency derivation,Изменение валентности,Valency-changing derivation,,
+selkup,tag,CAUS,каузатив,causative,каузатив.,The tag marks: causative.
+selkup,tag,DETR,детранзитив,detransitivizer,детранзитив.,The tag marks: detransitivizer.
 selkup,tag,TR,транзитиватор,transitive,транзитиватор.,The tag marks: transitive.
-selkup,tag,TRANSL,транслатив,translative,транслатив.,The tag marks: translative.
+selkup,group,Nominal derivation,Именная деривация,Nominal derivation,,
+selkup,tag,ADJ,адъективатор,adjective,адъективатор.,The tag marks: adjective.
+selkup,tag,ADVZ,адвербиализатор,adverbializer,адвербиализатор.,The tag marks: adverbializer.
+selkup,tag,DIM,диминутив,diminutive,диминутив.,The tag marks: diminutive.
+selkup,tag,INCH,инхоатив,inchoative,инхоатив.,The tag marks: inchoative.
+selkup,tag,NMLZ,номинализатор,nominalization,номинализатор.,The tag marks: nominalization.
+selkup,tag,PEJ,пейоратив,pejorative,пейоратив.,The tag marks: pejorative.
 selkup,tag,VBLZ,вербализатор,verbalizer,вербализатор.,The tag marks: verbalizer.
+selkup,group,Particles,Частицы,Particles,,
+selkup,tag,COORD,координатив,coordinative,координатив.,The tag marks: coordinative.
+selkup,tag,FOC,фокусная частица,focus particle,фокусная частица.,The tag marks: focus particle.
+selkup,tag,INT,интенсификатор,intensive,интенсификатор.,The tag marks: intensive.
+selkup,tag,NEG,отрицание,negation,отрицание.,The tag marks: negation.
+selkup,tag,NEG.EX,экзистенциальное отрицание,"negation, existential",экзистенциальное отрицание.,"The tag marks: negation, existential."
+selkup,tag,RFL,рефлексив,reflexive,рефлексив.,The tag marks: reflexive.
+selkup,tag,POSS,посессив,possessive,посессив.,The tag marks: possessive.
+selkup,group,Other tags,Прочие пометы,Other tags,,
+selkup,tag,EP,эпентеза,epenthesis,эпентеза.,The tag marks: epenthesis.
+selkup,tag,MEL,элемент распева,melodic extension,элемент распева.,The tag marks: melodic extension.
 ru,language,ru,Русский язык,Russian,,
 en,language,en,Английский язык,English,,

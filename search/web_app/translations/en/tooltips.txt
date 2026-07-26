@@ -1,4 +1,14 @@
-﻿Other	Other
+﻿Agreement	Agreement
+Aspect	Aspect
+Cases	Cases
+Nominal derivation	Nominal derivation
+Non-finite	Non-finite forms
+Number	Number
+Other	Other
+Other tags	Other tags
+Particles	Particles
+Tense/Mood	Tense and mood
+Valency derivation	Valency-changing derivation
 адвербиализатор	adverbializer
 адъективатор	adjective
 аккузатив	accusative

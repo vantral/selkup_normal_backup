@@ -1,4 +1,14 @@
-﻿Other	Прочее
+﻿Agreement	Согласование
+Aspect	Вид
+Cases	Падежи
+Nominal derivation	Именная деривация
+Non-finite	Нефинитные формы
+Number	Число
+Other	Прочее
+Other tags	Прочие пометы
+Particles	Частицы
+Tense/Mood	Время и наклонение
+Valency derivation	Изменение валентности
 адвербиализатор	адвербиализатор
 адъективатор	адъективатор
 аккузатив	аккузатив

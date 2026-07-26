@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="ru">
+<html lang="{{ current_lang }}">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ title }} | Корпуса ЛИСМЯ</title>
+    <title>{{ title }} | {{ ui.collection }}</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Russo+One&display=swap" rel="stylesheet">
@@ -12,28 +12,32 @@
 </head>
 <body style="--accent: {{ accent }}">
     <header class="hero">
-        <nav class="topbar" aria-label="Основная навигация">
+        <nav class="topbar" aria-label="{{ ui.contents }}">
             <div class="project-identity">
-                <a class="project-name" href="https://minlang.iling-ran.ru/">Малые языки России</a>
-                <a class="project-institute" href="https://iling-ran.ru/">Проект Института языкознания РАН</a>
+                <a class="project-name" href="https://minlang.iling-ran.ru/">{{ ui.project_name }}</a>
+                <a class="project-institute" href="https://iling-ran.ru/">{{ ui.institute }}</a>
             </div>
             <div class="topbar__actions">
-                <a class="collection-link" href="https://corpora.iling-ran.ru/">Корпуса ЛИСМЯ</a>
+                <div class="language-switch" aria-label="Language">
+                    <a href="?lang=ru" {% if current_lang == "ru" %}aria-current="page"{% endif %}>RU</a>
+                    <a href="?lang=en" {% if current_lang == "en" %}aria-current="page"{% endif %}>EN</a>
+                </div>
+                <a class="collection-link" href="https://corpora.iling-ran.ru/">{{ ui.collection }}</a>
                 <a class="search-link search-link--small" href="search">{{ search_button }}</a>
             </div>
         </nav>
 
         <div class="hero__grid">
-            <div>
+            <div class="hero__copy">
                 <h1>{{ title }}</h1>
                 {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
                 <a class="search-link" href="search">{{ search_button }} <span>→</span></a>
             </div>
             {% if show_stats %}
-            <dl class="stats" aria-label="Состав корпуса">
-                <div><dt>{{ "{:,}".format(stats.documents).replace(",", " ") }}</dt><dd>текстов</dd></div>
-                <div><dt>{{ "{:,}".format(stats.sentences).replace(",", " ") }}</dt><dd>предложений</dd></div>
-                <div><dt>{{ "{:,}".format(stats.words).replace(",", " ") }}</dt><dd>слов</dd></div>
+            <dl class="stats" aria-label="{{ ui.corpus_contents }}">
+                <div><dt>{{ "{:,}".format(stats.documents).replace(",", " ") }}</dt><dd>{{ ui.texts }}</dd></div>
+                <div><dt>{{ "{:,}".format(stats.sentences).replace(",", " ") }}</dt><dd>{{ ui.sentences }}</dd></div>
+                <div><dt>{{ "{:,}".format(stats.words).replace(",", " ") }}</dt><dd>{{ ui.words }}</dd></div>
             </dl>
             {% endif %}
         </div>
@@ -41,10 +45,10 @@
 
     <div class="layout">
         <aside class="contents">
-            <p>На этой странице</p>
+            <p>{{ ui.contents }}</p>
             {{ toc }}
-            {% if show_grammar and grammar_catalog %}<a href="#grammar-tags">Грамматика</a>{% endif %}
-            {% if show_grammar and gloss_catalog %}<a href="#gloss-tags">Глоссы</a>{% endif %}
+            {% if show_grammar and grammar_catalog %}<a href="#grammar-tags">{{ ui.grammar }}</a>{% endif %}
+            {% if show_grammar and gloss_catalog %}<a href="#gloss-tags">{{ ui.glosses }}</a>{% endif %}
         </aside>
 
         <main>
@@ -53,9 +57,10 @@
             {% if show_grammar and grammar_catalog %}
             <section class="annotation" id="grammar-tags">
                 <div class="section-heading">
-                    <h2>Грамматика</h2>
-                    <p>Грамматические теги описывают свойства словоформы или анализа целиком: часть речи, падеж, число, лицо, время и другие морфосинтаксические характеристики.</p>
+                    <h2>{{ ui.grammar }}</h2>
+                    <p>{{ ui.grammar_intro }}</p>
                 </div>
+                {% set annotation_catalog = grammar_catalog %}
                 {% include "landing_annotation_catalog.html" with context %}
             </section>
             {% endif %}
@@ -63,10 +68,10 @@
             {% if show_grammar and gloss_catalog %}
             <section class="annotation annotation--glosses" id="gloss-tags">
                 <div class="section-heading">
-                    <h2>Глоссы</h2>
-                    <p>Глоссы относятся не ко всей словоформе, а к отдельным морфемам в разборе. Они кратко обозначают значение или функцию корня, аффикса и другого элемента морфемной структуры.</p>
+                    <h2>{{ ui.glosses }}</h2>
+                    <p>{{ ui.gloss_intro }}</p>
                 </div>
-                {% set grammar_catalog = gloss_catalog %}
+                {% set annotation_catalog = gloss_catalog %}
                 {% include "landing_annotation_catalog.html" with context %}
             </section>
             {% endif %}
@@ -75,8 +80,8 @@
 
     <footer>
         <div>
-            <strong>Малые языки России</strong>
-            <span>Проект Института языкознания РАН</span>
+            <strong>{{ ui.project_name }}</strong>
+            <span>{{ ui.institute }}</span>
         </div>
         <a href="search">{{ search_button }} →</a>
     </footer>
@@ -87,7 +92,7 @@
                 const catalog = input.closest('.annotation');
                 const query = input.value.trim().toLocaleLowerCase();
                 catalog.querySelectorAll('.tag-item').forEach(item => {
-                    item.hidden = query && !item.dataset.tag.includes(query);
+                    item.hidden = Boolean(query && !item.dataset.tag.includes(query));
                 });
                 catalog.querySelectorAll('.tag-group').forEach(group => {
                     group.hidden = !group.querySelector('.tag-item:not([hidden])');

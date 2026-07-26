@@ -1,0 +1,53 @@
+﻿Other	Other
+адвербиализатор	adverbializer
+адъективатор	adjective
+аккузатив	accusative
+аттенуатив	attenuative
+будущее время	future
+вербализатор	verbalizer
+второе лицо	second person
+генетив	genitive
+датив	dative
+деепричастие	converb
+детранзитив	detransitivizer
+диминутив	diminutive
+дуратив	durative
+единственное число	singular
+иллатив	illative
+имперфектив	imperfective
+инструменталис	instrumental
+интенсивный перфектив	perfective, intensive
+интенсификатор	intensive
+инфинитив	infinitive
+инхоатив	inchoative
+каузатив	causative
+коллективная множественность	collective
+координатив	coordinative
+локатив	locative
+множественное число	plural
+непрямая эвиденциальность	indirect evidential
+номинализатор	nominalization
+объектный тип спряжения	object agreement
+отрицание	negation
+пейоратив	pejorative
+первое лицо	first person
+перфектив	perfective
+показатель многообъектного глагола	multiple-object marker
+показатель многосубъектного глагола	multiple-subject marker
+полатив	prolative
+посессив	possessive
+причастие прошедшего времени	participle, past
+прошедшее время	past
+прошедшее повествовательное время	narrative past
+реверсивный перфектив	perfective, reversive
+рефлексив	reflexive
+субъектный тип спряжения	subject agreement
+транзитиватор	transitive
+транслатив	translative
+третье лицо	third person
+фокусная частица	focus particle
+хабитуалис	habitual
+экзистенциальное отрицание	negation, existential
+элатив	elative
+элемент распева	melodic extension
+эпентеза	epenthesis

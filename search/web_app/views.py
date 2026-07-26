@@ -14,10 +14,18 @@ import uuid
 import xlsxwriter
 from werkzeug.utils import secure_filename
 from . import app, settings, sc, sentView, MAX_PAGE_SIZE
+from .landing import render_landing_page
 from .session_management import get_locale, get_session_data, change_display_options, set_session_data
 from .auxiliary_functions import jsonp, gzipped, nocache, lang_sorting_key, copy_request_args,\
     distance_constraints_too_complex, remove_sensitive_data, log_query
 from .search_pipelines import *
+
+
+@app.route('/')
+@app.route('/about')
+def landing_page():
+    """Return the Markdown-driven public information page."""
+    return render_landing_page(settings, sc)
 
 
 @app.route('/search')

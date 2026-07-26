@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ title }}</title>
+    <link rel="icon" type="image/png" href="static/favicons/favicon-32x32.png">
+    <link rel="stylesheet" href="static/css/corpus_landing.css">
+</head>
+<body style="--accent: {{ accent }}">
+    <header class="hero">
+        <nav class="topbar" aria-label="Основная навигация">
+            <a class="brand" href="./">Корпусная коллекция</a>
+            <a class="search-link search-link--small" href="search">{{ search_button }}</a>
+        </nav>
+        <div class="hero__grid">
+            <div>
+                <p class="kicker">{{ kicker }}</p>
+                <h1>{{ title }}</h1>
+                {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+                <a class="search-link" href="search">{{ search_button }} <span>→</span></a>
+            </div>
+            {% if show_stats %}
+            <dl class="stats" aria-label="Состав корпуса">
+                <div><dt>{{ "{:,}".format(stats.documents).replace(",", " ") }}</dt><dd>текстов</dd></div>
+                <div><dt>{{ "{:,}".format(stats.sentences).replace(",", " ") }}</dt><dd>предложений</dd></div>
+                <div><dt>{{ "{:,}".format(stats.words).replace(",", " ") }}</dt><dd>слов</dd></div>
+                <div><dt>{{ stats.languages }}</dt><dd>языков</dd></div>
+            </dl>
+            {% endif %}
+        </div>
+    </header>
+
+    <div class="layout">
+        <aside class="contents">
+            <p>На этой странице</p>
+            {{ toc }}
+            {% if show_grammar and grammar_catalog %}
+            <a href="#grammar-tags">Грамматические теги</a>
+            {% endif %}
+        </aside>
+
+        <main>
+            <article class="markdown">{{ content }}</article>
+
+            {% if show_grammar and grammar_catalog %}
+            <section class="grammar" id="grammar-tags">
+                <div class="section-heading">
+                    <p class="kicker">Система разметки</p>
+                    <h2>Грамматические теги</h2>
+                    <p>Список формируется из конфигурации корпуса. Начните вводить тег или описание, чтобы отфильтровать таблицу.</p>
+                </div>
+                <label class="tag-search">
+                    <span>Фильтр тегов</span>
+                    <input id="tag-filter" type="search" placeholder="Например: plural, case, verb…" autocomplete="off">
+                </label>
+                {% for language in grammar_catalog %}
+                <section class="language-block">
+                    <h3>{{ language.language }}</h3>
+                    {% for category in language.categories %}
+                    <details class="tag-group" open>
+                        <summary>{{ category.name }} <span>{{ category.tags|length }}</span></summary>
+                        <div class="tag-grid">
+                            {% for item in category.tags %}
+                            <div class="tag-row" data-tag="{{ item.tag|lower }} {{ item.description|lower }} {{ category.name|lower }}">
+                                <code>{{ item.tag }}</code>
+                                <span>{{ item.description or category.name }}</span>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </details>
+                    {% endfor %}
+                </section>
+                {% endfor %}
+            </section>
+            {% endif %}
+        </main>
+    </div>
+
+    <footer>
+        <span>{{ title }}</span>
+        <a href="search">{{ search_button }} →</a>
+    </footer>
+    <script>
+    (() => {
+        const input = document.querySelector('#tag-filter');
+        if (!input) return;
+        input.addEventListener('input', () => {
+            const query = input.value.trim().toLocaleLowerCase();
+            document.querySelectorAll('.tag-row').forEach(row => {
+                row.hidden = query && !row.dataset.tag.includes(query);
+            });
+            document.querySelectorAll('.tag-group').forEach(group => {
+                group.hidden = !group.querySelector('.tag-row:not([hidden])');
+            });
+            document.querySelectorAll('.language-block').forEach(block => {
+                block.hidden = !block.querySelector('.tag-group:not([hidden])');
+            });
+        });
+    })();
+    </script>
+</body>
+</html>

@@ -1,5 +1,6 @@
 {
     "corpus_name": "selkup_normal",
+    "start_page_url": "./",
     "citation": "The corpus of the Selkup language.",
     "input_format": "json",
     "debug": false,

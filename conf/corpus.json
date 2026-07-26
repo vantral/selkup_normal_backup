@@ -1,6 +1,11 @@
 {
     "corpus_name": "selkup_normal",
     "start_page_url": "./",
+    "landing_language_names": {
+        "selkup": "Северноселькупский язык",
+        "ru": "Русский язык",
+        "en": "Английский язык"
+    },
     "citation": "The corpus of the Selkup language.",
     "input_format": "json",
     "debug": false,

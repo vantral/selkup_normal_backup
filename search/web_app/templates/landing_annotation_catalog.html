@@ -1,0 +1,24 @@
+<label class="tag-search">
+    <span>Фильтр обозначений</span>
+    <input class="tag-filter" type="search" placeholder="Введите тег или расшифровку" autocomplete="off">
+</label>
+{% for language in grammar_catalog %}
+<section class="language-block">
+    <h3>{{ language.language }}</h3>
+    <div class="tag-groups">
+        {% for group in language.groups %}
+        <section class="tag-group">
+            <h4>{{ group.name }} <span>{{ group.tags|length }}</span></h4>
+            <dl class="tag-list">
+                {% for item in group.tags %}
+                <div class="tag-item" data-tag="{{ item.tag|lower }} {{ item.description|lower }} {{ group.name|lower }}">
+                    <dt><code>{{ item.tag }}</code></dt>
+                    <dd>{{ item.description or group.name }}</dd>
+                </div>
+                {% endfor %}
+            </dl>
+        </section>
+        {% endfor %}
+    </div>
+</section>
+{% endfor %}

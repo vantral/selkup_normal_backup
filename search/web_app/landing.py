@@ -175,7 +175,11 @@ def _language_name(settings, rows, language, locale):
 
 def _group_name(rows, language, name, locale):
     override = _localized(_override(rows, language, "group", name), "title", locale)
-    return override or GROUP_NAMES[locale].get(name, name.replace("_", " ").title())
+    if override:
+        return override
+    if name in {UI[locale]["other_grammar"], UI[locale]["other_glosses"]}:
+        return name
+    return GROUP_NAMES[locale].get(name, name.replace("_", " ").title())
 
 
 def _tag_item(rows, language, tag, tooltip, locale, ui):
@@ -187,9 +191,12 @@ def _tag_item(rows, language, tag, tooltip, locale, ui):
         title = tooltip
     if not title:
         title = f"{ui['open_explanation']}?"
-    if not description:
-        description = title
-    return {"tag": tag, "title": title, "description": description}
+    return {
+        "tag": tag,
+        "title": title,
+        "description": description,
+        "has_details": bool(description),
+    }
 
 
 def _selector_groups(lang_props, selector_name, rows, language, locale, ui):
@@ -237,7 +244,7 @@ def _grammar_groups(settings, language, lang_props, rows, locale, ui):
     fallback_groups = []
     fallback_by_name = {}
     for tag, category in settings.categories.get(language, {}).items():
-        if tag in seen:
+        if not tag or tag in seen:
             continue
         raw_name = category or ui["other_grammar"]
         group_name = _group_name(rows, language, raw_name, locale)

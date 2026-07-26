@@ -1,6 +1,6 @@
 ﻿language,kind,key,title_ru,title_en,description_ru,description_en
 selkup,language,selkup,Северноселькупский язык,Northern Selkup,,
-selkup,group,Other,Other,Other,,
+selkup,group,Other,Прочее,Other,,
 selkup,tag,1,первое лицо,first person,первое лицо.,The tag marks: first person.
 selkup,tag,2,второе лицо,second person,второе лицо.,The tag marks: second person.
 selkup,tag,3,третье лицо,third person,третье лицо.,The tag marks: third person.

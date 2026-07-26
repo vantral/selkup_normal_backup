@@ -216,14 +216,20 @@ h1 {
 }
 .tag-item {
     min-width: 0;
+    width: 100%;
+    display: block !important;
     border-bottom: 1px solid #d8dad7;
     padding: .2rem 0 .55rem;
 }
-.tag-item summary {
+.tag-item summary,
+.tag-summary {
+    width: 100%;
     display: grid;
     grid-template-columns: minmax(4.5rem, auto) 1fr;
     gap: .7rem;
     align-items: baseline;
+}
+.tag-item summary {
     cursor: pointer;
     list-style: none;
 }
@@ -237,12 +243,14 @@ h1 {
 }
 .tag-item[open] summary::after { content: "−"; }
 .tag-item code { color: var(--accent); font-weight: 700; overflow-wrap: anywhere; }
-.tag-item summary span {
+.tag-item summary span,
+.tag-summary span {
     padding-right: 1.2rem;
     color: #59605f;
     font-size: .86rem;
     overflow-wrap: anywhere;
 }
+.tag-item--static { padding-top: .35rem; }
 .tag-item p {
     margin: .5rem 0 0;
     padding: .65rem .75rem;

@@ -478,6 +478,125 @@ GROUPS = {
     "Particles": ("Частицы", "Particles"),
     "Possessiveness": ("Посессивность", "Possessiveness"),
     "Other tags": ("Прочие пометы", "Other tags"),
+    "Nominal inflection": ("Именное словоизменение", "Nominal inflection"),
+    "Subject agreement": ("Субъектное согласование", "Subject agreement"),
+    "Object agreement": ("Объектное согласование", "Object agreement"),
+    "Other verb tags": ("Прочие глагольные пометы", "Other verb tags"),
+    "Reflexive form": ("Рефлексивная форма", "Reflexive form"),
+    "Predicative form": ("Предикативная форма", "Predicative form"),
+    "Other": ("Прочее", "Other"),
+    "pers": ("Лицо", "Person"),
+    "nType": ("Тип существительного", "Noun type"),
+    "adjType": ("Тип прилагательного", "Adjective type"),
+    "stemType": ("Тип основы", "Stem type"),
+    "proType": ("Тип местоимения", "Pronoun type"),
+    "v_form": ("Глагольная форма", "Verb form"),
+    "ptcp_form": ("Форма причастия", "Participle form"),
+    "cnv_form": ("Форма конверба", "Converb form"),
+    "conjtype": ("Тип союза", "Conjunction type"),
+    "v_deriv": ("Глагольная деривация", "Verbal derivation"),
+    "attributivizer": ("Атрибутивизатор", "Attributivizer"),
+    "case_c": ("Падежное управление", "Case government"),
+    "n_deriv": ("Именная деривация", "Nominal derivation"),
+    "poss": ("Посессивность", "Possessiveness"),
+    "comp": ("Сочетаемость", "Combinability"),
+    "num_deriv": ("Деривация числительных", "Numeral derivation"),
+    "additional": ("Дополнительные признаки", "Additional features"),
+    "v_subcat": ("Глагольная подклассификация", "Verb subclass"),
+    "Parts of speech": ("Части речи", "Parts of speech"),
+    "Part of speech": ("Часть речи", "Part of speech"),
+    "Lexical classes": ("Лексические классы", "Lexical classes"),
+    "Pronoun types": ("Типы местоимений", "Pronoun types"),
+    "Attributivizers": ("Атрибутивизаторы", "Attributivizers"),
+    "Loanwords": ("Заимствования", "Loanwords"),
+    "Core cases": ("Основные падежи", "Core cases"),
+    "Spatial cases": ("Пространственные падежи", "Spatial cases"),
+    "Tense/Mood": ("Время и наклонение", "Tense and mood"),
+    "Verbal derivation": ("Глагольная деривация", "Verbal derivation"),
+    "Non-finite forms": ("Нефинитные формы", "Non-finite forms"),
+    "Converbs": ("Конвербы", "Converbs"),
+    "Imperatives": ("Императивные формы", "Imperatives"),
+    "Transitivity": ("Переходность", "Transitivity"),
+    "Case": ("Падеж", "Case"),
+    "Gender": ("Род", "Gender"),
+    "Animacy": ("Одушевлённость", "Animacy"),
+    "Mood / Verb form": ("Наклонение и форма глагола", "Mood and verb form"),
+    "Voice": ("Залог", "Voice"),
+    "Degree / Adj. form": ("Степень и форма прилагательного", "Degree and adjective form"),
+    "Proper names": ("Имена собственные", "Proper names"),
+    "Other features": ("Прочие признаки", "Other features"),
+    "g": ("Род", "Gender"),
+    "num": ("Число", "Number"),
+    "asp": ("Вид", "Aspect"),
+    "tr": ("Переходность", "Transitivity"),
+    "an": ("Одушевлённость", "Animacy"),
+    "vF": ("Форма глагола", "Verb form"),
+    "cnvF": ("Форма конверба", "Converb form"),
+    "voice": ("Залог", "Voice"),
+    "adjF": ("Форма прилагательного", "Adjective form"),
+    "add": ("Дополнительные признаки", "Additional features"),
+    "Person": ("Лицо", "Person"),
+    "Type of pronoun": ("Тип местоимения", "Pronoun type"),
+    "Type of adverb": ("Тип наречия", "Adverb type"),
+    "Type of particle": ("Тип частицы", "Particle type"),
+    "Type of preposition": ("Тип предлога", "Preposition type"),
+    "Proper noun type": ("Тип имени собственного", "Proper noun type"),
+    "Adjective form": ("Форма прилагательного", "Adjective form"),
+    "Numeral type": ("Тип числительного", "Numeral type"),
+    "Verb TAM": ("Время, вид и наклонение глагола", "Verb tense, aspect and mood"),
+    "Verb stem": ("Глагольная основа", "Verb stem"),
+    "Direct object": ("Прямой объект", "Direct object"),
+    "Indirect object": ("Косвенный объект", "Indirect object"),
+    "Double object": ("Двойной объект", "Double object"),
+    "Possessive": ("Посессивность", "Possessive"),
+    "pron_type": ("Тип местоимения", "Pronoun type"),
+    "part_type": ("Тип частицы", "Particle type"),
+    "adv_type": ("Тип наречия", "Adverb type"),
+    "prep_form": ("Форма предлога", "Preposition form"),
+    "adj_det": ("Определённость прилагательного", "Adjective definiteness"),
+    "object": ("Объектное согласование", "Object agreement"),
+    "POSS": ("Посессивность", "Possessiveness"),
+    "DOM": ("Дифференцированное маркирование объекта", "Differential object marking"),
+    "Stamm": ("Тип основы", "Stem type"),
+    "Degree": ("Степень сравнения", "Degree"),
+    "HD": ("Сопряжённое состояние", "Status constructus"),
+    "PROPN_type": ("Тип имени собственного", "Proper noun type"),
+    "num_type": ("Тип числительного", "Numeral type"),
+    "Часть речи и тип токена": ("Часть речи и тип токена", "Part of speech and token type"),
+    "Одушевлённость": ("Одушевлённость", "Animacy"),
+    "Вид": ("Вид", "Aspect"),
+    "Падеж": ("Падеж", "Case"),
+    "Род": ("Род", "Gender"),
+    "Включённость говорящего": ("Включённость говорящего", "Speaker involvement"),
+    "Наклонение": ("Наклонение", "Mood"),
+    "Число": ("Число", "Number"),
+    "Лицо": ("Лицо", "Person"),
+    "Время": ("Время", "Tense"),
+    "Переходность": ("Переходность", "Transitivity"),
+    "Залог": ("Залог", "Voice"),
+    "Имена собственные": ("Имена собственные", "Proper names"),
+    "Разряды и формы прилагательных": ("Разряды и формы прилагательных", "Adjective classes and forms"),
+    "Количественные свойства": ("Количественные свойства", "Quantitative properties"),
+    "Тип числового значения": ("Тип числового значения", "Numeric value type"),
+    "Стилистические пометы": ("Стилистические пометы", "Stylistic labels"),
+    "Особые глагольные формы": ("Особые глагольные формы", "Special verb forms"),
+    "Прочие морфологические пометы": ("Прочие морфологические пометы", "Other morphological labels"),
+    "animacy": ("Одушевлённость", "Animacy"),
+    "involvement": ("Включённость говорящего", "Speaker involvement"),
+    "transitivity": ("Переходность", "Transitivity"),
+    "name_type": ("Тип имени собственного", "Proper name type"),
+    "adjective_type": ("Тип прилагательного", "Adjective type"),
+    "quantity": ("Количественные свойства", "Quantitative properties"),
+    "number_kind": ("Тип числового значения", "Numeric value type"),
+    "Style": ("Стилистические пометы", "Stylistic labels"),
+    "style": ("Стилистические пометы", "Stylistic labels"),
+    "verb_form": ("Глагольная форма", "Verb form"),
+    "variant": ("Вариант формы", "Form variant"),
+}
+
+TAG_OVERRIDES = {
+    ("even", "N"): ("существительное", "noun"),
+    ("aramaic", "Pers"): ("личное местоимение", "personal pronoun"),
 }
 
 
@@ -541,6 +660,10 @@ def expand(tag):
 
 def tag_row(language, tag, tooltip):
     title_ru, title_en, description_ru, description_en = expand(tag)
+    if (language, tag) in TAG_OVERRIDES:
+        title_ru, title_en = TAG_OVERRIDES[(language, tag)]
+        description_ru = f"Помета обозначает: {title_ru}."
+        description_en = f"The tag marks: {title_en}."
     tooltip = (tooltip or "").strip()
     if tooltip and tooltip.casefold() != tag.casefold():
         if has_cyrillic(tooltip):
@@ -659,16 +782,10 @@ def write_search_tooltips(config, rows):
         path = translations_root / locale / "tooltips.txt"
         path.parent.mkdir(parents=True, exist_ok=True)
         values = read_tab_file(path)
-        # Generated entries replace empty or identity tooltips; explicit manual
-        # translations remain authoritative.
+        # The bilingual CSV is authoritative for selector labels. Edit it
+        # instead of editing tooltips.txt directly.
         for key, value in new_values.items():
-            if (
-                key not in values
-                or values[key] == key
-                or values[key].startswith("Специальная помета ")
-                or values[key].startswith("Corpus-specific tag ")
-            ):
-                values[key] = value
+            values[key] = value
         text = "".join(f"{key}\t{values[key]}\n" for key in sorted(values, key=str.casefold))
         path.write_text(text, encoding="utf-8-sig")
 
@@ -685,8 +802,17 @@ def main():
         previous = old.get((row["language"], row["kind"], row["key"]), {})
         for field in FIELDS[3:]:
             previous_value = previous.get(field, "").strip()
+            auto_group_value = row["key"].replace("_", " ").title()
             if (
                 previous_value
+                and not (
+                    row["kind"] == "group"
+                    and previous_value == auto_group_value
+                )
+                and not (
+                    row["kind"] == "tag"
+                    and (row["language"], row["key"]) in TAG_OVERRIDES
+                )
                 and not previous_value.startswith("Специальная помета ")
                 and not previous_value.startswith("Corpus-specific tag ")
                 and "требует уточнения у составителей корпуса?" not in previous_value
